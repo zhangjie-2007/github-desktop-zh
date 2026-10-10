@@ -145,8 +145,9 @@ __GHZH__.collect()    // 把「界面上仍是英文」的文案写到 _scratch\
 ## 七、许可与声明
 
 - 本项目（翻译引擎、词典、安装脚本）以 **MIT** 协议发布，见 [LICENSE](LICENSE)。
-- 词典里的英文原文来自 **GitHub Desktop**（Copyright © GitHub, Inc.，MIT 协议），
-  中文译文由本项目机器翻译后人工校对。本项目与 GitHub, Inc. 无任何关联，也未获其背书。
+- 词典里的英文原文来自 **GitHub Desktop**（<https://github.com/desktop/desktop>，
+  Copyright © GitHub, Inc.，MIT 协议），中文译文由本项目机器翻译后人工校对。
+  本项目与 GitHub, Inc. 无任何关联，也未获其背书。
 - 汉化方式是运行时替换界面文本，**不修改也不分发 GitHub Desktop 的任何程序文件**。
   卸载即恢复原样。
 
