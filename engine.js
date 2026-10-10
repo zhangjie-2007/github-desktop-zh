@@ -44,10 +44,32 @@
     '[contenteditable="true"]', '[data-ghzh-skip]'
   ].join(',');
 
+  // 属性（placeholder/title/aria-label/alt）用的跳过表。
+  // 注意这里**去掉了 input/textarea/select/option**：跳过的本意是「别改用户的输入内容」，
+  // 而 doElement 只会翻译 INPUT[type=button|submit|reset] 的 value，普通输入框的 value 不动。
+  // 早期版本把整个 input 都跳过，导致搜索框的 placeholder 一直是英文
+  // （例如侧栏的 "Filter your repositories"），而 collect() 的属性报告不查 skipped，
+  // 所以报告显示「无残留」却肉眼可见英文——这个假阴性就是这么来的。
+  var SKIP_ATTR_SELECTOR = [
+    'script', 'style', 'noscript', 'code', 'pre', 'kbd', 'samp', 'var', 'svg',
+    '.markdown-body',
+    '.CodeMirror', '.cm-editor', '.cm-content', '.monaco-editor',
+    '.diff-line', '.diff-hunk', '.diff-content', '.blob-wrapper',
+    '[contenteditable="true"]', '[data-ghzh-skip]'
+  ].join(',');
+
   function skipped(el) {
     if (!el) return true;
     if (el.nodeType === 1) {
       if (el.matches && el.matches(SKIP_SELECTOR)) return true;
+    }
+    return false;
+  }
+
+  function skippedAttr(el) {
+    if (!el) return true;
+    if (el.nodeType === 1) {
+      if (el.matches && el.matches(SKIP_ATTR_SELECTOR)) return true;
     }
     return false;
   }
@@ -161,7 +183,7 @@
 
   function doElement(el) {
     if (!el || el.nodeType !== 1) return;
-    if (skipped(el)) return;
+    if (skippedAttr(el)) return;
     for (var i = 0; i < ATTRS.length; i++) {
       var a = ATTRS[i];
       if (el.hasAttribute && el.hasAttribute(a)) {
@@ -222,8 +244,12 @@
     if (!node) return;
     if (node.nodeType === 3) { doTextNode(node); return; }
     if (node.nodeType !== 1) return;
+    // 注意：属性翻译必须放在 skipped() 判断之前。
+    // input/textarea 在 SKIP_SELECTOR 里（不翻它们的内部文本与 value），
+    // 但它们的 placeholder/title/aria-label 是要翻的；早期版本先 return 掉，
+    // 于是搜索框的 "Filter your repositories" 永远翻不出来。
+    doElement(node);                       // 内部按 skippedAttr 判断
     if (skipped(node)) return;
-    doElement(node);
     // 识别到访问键结构就整体处理完并停止下钻——命中与否都不再遍历它的子节点
     if (accessKeyLabel(node)) return;
     var kids = node.childNodes;

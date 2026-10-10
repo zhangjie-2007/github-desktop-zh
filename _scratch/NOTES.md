@@ -25,6 +25,18 @@
    要用汉字正则。
 7. **菜单标签有两套文本**：`.sr-only` 里是整串，可见部分是碎片。只翻可见碎片会拼出
    「Show 已贮藏的更改」这种半中半英。识别到 AccessText 结构后必须**整体处理并停止下钻**。
+8. **`skipped()` 拦在属性翻译之前，是「假阴性」的来源**。`input` 为了不改用户输入内容被
+   放进 `SKIP_SELECTOR`，而 `walkNode()` 第一句就是 `if (skipped(node)) return;` →
+   `doElement()` 对 `<input>` 从来不会执行，搜索框的 `placeholder="Filter your repositories"`
+   永远是英文。而 `collect()` 的属性报告**不查 `skipped`**，所以报告显示「无残留」、
+   肉眼却能看到英文。修法两条：① `walkNode()` 里把 `doElement(node)` 提到 `skipped()` 之前，
+   属性用单独的 `SKIP_ATTR_SELECTOR`（不含 input/textarea/select/option）；② `doElement()`
+   内部也用 `skippedAttr()`。
+9. **登录状态不在 `accounts.json` 里**。GitHub Desktop 3.6 把账号存进 **IndexedDB**
+   （`%APPDATA%\GitHub Desktop\IndexedDB\file__0.indexeddb.leveldb\`），所以按老资料去找
+   `accounts.json` / `config.json` / `repositories.json` 会误判成「从未登录」。
+   可靠判据是日志 `%APPDATA%\GitHub Desktop\logs\<日期>.desktop.production.log` 里的
+   `[SignInStore] account resolved` 与 `[ui] [AppStore] found account: <登录名>`。
 
 ## 抓菜单/截图
 

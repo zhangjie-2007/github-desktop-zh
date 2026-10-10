@@ -115,5 +115,6 @@
   "Unified": "统一显示",
   "Ignore whitespace": "忽略空白字符",
   "Filter": "筛选",
-  "Discard changes": "放弃更改"
+  "Discard changes": "放弃更改",
+  "Refresh the list of repositories": "刷新仓库列表"
 }
