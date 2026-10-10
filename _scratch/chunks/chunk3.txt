@@ -1,0 +1,185 @@
+﻿Drag the commits to squash or reorder them.
+Drag the commits to the branch menu to cherry-pick them.
+ecs-description-text selectable
+ecs-meta-item authors
+ecs-meta-item commit-ref
+ecs-meta-item lines-added-deleted
+ecs-meta-item tags selectable
+Edit a file
+Edit custom provider
+Edit model
+edit your global Git config file
+Editing
+EiB
+either of your GitHub.com nor GitHub Enterprise accounts
+elem.clientWidth)
+Email
+Email address is disallowed. View warning.
+Email does not appear to be a bot email
+Empty commit message
+Enable commit spellcheck
+Enable notifications
+encodeModelKey(
+End
+Enhancements
+ENOTDIR
+Enter
+Enterprise
+Enterprise address
+Error checking merge status.
+Error details
+Error installing CLI
+Error linking program:
+Error loading DDS image:
+Error loading licenses
+Error parsing updates url
+Error updating priority update status
+error:
+Esc
+Escape
+Example commit
+Exciting new features have been added
+Exclude selected files
+Excluded from commit
+Executables
+existing-repository-path-error path-is-subfolder-of-repository
+existing-repository-path-error repo-sanitized-name-warning
+Exit tutorial
+Expand
+Expand All
+Expand commit details
+Expand description
+Expand Down
+Expand Up
+Expand whole file
+Expanded
+Expected:
+Experience agent-driven development built natively on GitHub.
+Explore projects on GitHub
+Explorer
+Exposing this secret can allow someone to:
+extends AutocompletingTextInput
+extends React.Component
+External editor
+F10
+F11
+Failed determining mergeability
+Failed to compile fragment shader
+Failed to compile vertex shader
+Failed to compute resolution diff
+Failed to create WebGLBuffer
+Failed to create WebGLVertexArrayObject
+Failed to discard changes to
+Failed to find the newly created worktree
+Failed to get WEBGL_compressed_texture_s3tc extension
+Failed to get webgl2 context
+Failed to ignore file(s)
+Failed to ignore pattern(s)
+Failed to parse custom integration arguments:
+Failed to push
+Failed to start pull request because pull request state was null
+Failed to unlink config lock file
+Failed to update Git configuration file. A lock file already exists at
+failed.
+false_positive
+Fetch
+File does not exist on disk
+file has
+File options
+File resolution options
+File size limit exceeded
+files have
+Files that exceed the limit
+Files too large
+files would be overwritten
+Filter
+Filter models
+Filter Options
+Filter your repositories
+filteredItems.size)
+Finder
+Finish
+Fix all the things
+For my own purposes
+For this repository I wish to
+for your repository
+force push
+Force pushing
+Forcefully delete
+Fork behavior
+fork behavior settings
+Fork this repository
+formatNumber(value,
+Formatting
+Full Name:
+Generate commit message with Copilot
+generate-commit-message-override-warning-body generate-commit-message-override-warning-tip
+Get started
+Get started on a brand new project
+getHunkKeyIndex(key)
+GiB
+Git
+Git config
+Git Credential Manager
+Git ignore
+Git is configured to convert them
+Git is requesting permission to sign in to this server:
+Git LFS
+Git LFS filters are already configured in
+Git requesting credentials to access
+GitHub Desktop also distributes these libraries:
+GitHub Desktop cannot verify the identity of
+GitHub Open Source Applications Terms and Conditions
+GitHub Privacy Statement
+GitHub Privacy Statement.
+GitHub.com
+github.sh
+GitHub's default branch name is
+GitHub's Logos
+GitHubUserDatabase
+Global
+GPT-4o
+Great commit summaries contain fewer than 50 characters
+Great commit summaries contain fewer than 50 characters. Place extra information in the description field.
+Hands clapping
+Hang tight
+Hang Tight. Loading pull requests as fast as I can!
+has been
+HEAD^
+header filter-field-row
+Help GitHub Desktop improve by submitting
+hidden changes
+Hidden changes will be committed.
+Hide whitespace changes
+Highlighter worked failed for new contents
+Highlighter worked failed for old contents
+Home
+Hooks
+How are you planning to use this fork?
+Html syntax icon
+Hunk
+hunk-expansion-handle selectable hoverable
+I have an editor
+I understand
+Icon Preview
+icon spin
+if (rowListIncludesIndexPath(this.props.selectedRows, row))
+if (this.props.selectedRows.includes(row))
+If I have changes and I switch branches...
+If this is a GitHub Enterprise trial.
+If you trust the owner of the directory you can
+Ignore
+Ignore and Continue
+Ignore file (add to .gitignore)
+Ignore folder (add to .gitignore)
+Ignored files
+I'll fix it later
+I'm sure
+important updates
+In some cases, this may be expected. For example:
+Include selected files
+Included in commit
+Incoming
+Increase
+Initialize Git LFS
+Initialize this repository with a README

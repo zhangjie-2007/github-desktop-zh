@@ -1,0 +1,297 @@
+﻿&nbsp;
+&nbsp;&nbsp;
+&nbsp;as determined by your
+Anthropic
+appearance-section formatting-section
+AppMenu): Promise
+Arm64
+ArrowDown
+ArrowLeft
+ArrowRight
+ArrowUp
+Atom
+avatar-more avatar
+AvatarStack
+AvatarStack-body
+AvatarStack--plus
+AvatarStack--small
+AvatarStack--three
+AvatarStack--two
+Azure
+botAvatarCache.set(
+branches-list-content filter-list-group-header
+branches-list-item new-branch-drop
+branches-list-item-tooltip list-item-tooltip
+button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])
+button:not(:disabled):not([tabindex="-1"])
+changes-interstitial submodule-diff
+changes-list-container file-list filtered-changes-list
+ci-check-run-list check-run-rerun-list
+className=
+CloneRepository: Path validation failed. Error:
+clone-repository-list-content clone-repository-list-group-header
+Co-Authored-By
+commit-list-item-tooltip list-item-tooltip
+commit-message-failure-hint button-component
+ConfigureGit
+content-pane repository-list
+Copilot
+copilot-byok-fieldset copilot-byok-models
+copilot-changes-diff-subheader expanded
+copilot-conflicts-file-heading copilot-conflicts-skipped-heading
+copilot-file-explanation resolved-text
+copilot-model-list-group filter-list-group-header
+copilot-section copilot-account-snapshot-groups
+delete-branch-confirmation-message delete-branch-confirmation-message-remote
+dialog-banner dialog-error
+dialog-banner dialog-success
+discard-changes-confirmation-file-list discard-changes-confirmation-message
+div[role=row]
+div[role=row]:first-child
+div[role=row]:last-child
+DOMContentLoaded
+ecs-description-text selectable
+ecs-meta-item authors
+ecs-meta-item commit-ref
+ecs-meta-item lines-added-deleted
+ecs-meta-item tags selectable
+EiB
+elem.clientWidth)
+encodeModelKey(
+ENOTDIR
+Enterprise
+Error loading DDS image:
+error:
+Esc
+Escape
+existing-repository-path-error path-is-subfolder-of-repository
+existing-repository-path-error repo-sanitized-name-warning
+extends AutocompletingTextInput
+extends React.Component
+F10
+F11
+false_positive
+filteredItems.size)
+formatNumber(value,
+generate-commit-message-override-warning-body generate-commit-message-override-warning-tip
+getHunkKeyIndex(key)
+GiB
+Git
+Git LFS
+GitHub.com
+github.sh
+GitHubUserDatabase
+GPT-4o
+Hands clapping
+HEAD^
+header filter-field-row
+hunk-expansion-handle selectable hoverable
+icon spin
+if (rowListIncludesIndexPath(this.props.selectedRows, row))
+if (this.props.selectedRows.includes(row))
+input:not([type=hidden]):not(:disabled):not([tabindex="-1"])
+input[type=button], input[type=submit] input[type=reset], button
+input[type=submit], button[type=submit]
+interface IAugmentedSectionFilterListProps
+interface ISectionFilterListRowHeightInfo
+interface ITutorialDoneProps
+IssuesDatabase
+item.id === si.id))
+KiB
+length)
+link-button-component example-link
+listHeight)
+list-insertion-point bottom
+list-insertion-point top
+ListRow
+M 0,0 0,0.7 4.3,5 0,9.3 0,10 0.7,10 5,5.7 9.3,10 10,10 10,9.3 5.7,5 10,0.7 10,0 9.3,0 5,4.3 0.7,0 Z
+M 0,0 0,10 10,10 10,0 Z M 1,1 9,1 9,9 1,9 Z
+M 0,5 10,5 10,6 0,6 Z
+m 2,1e-5 0,2 -2,0 0,8 8,0 0,-2 2,0 0,-8 z m 1,1 6,0 0,6 -1,0 0,-5 -5,0 z m -2,2 6,0 0,6 -6,0 z
+m.id === key.modelId))
+M0 6a.75.75 0 0 0 .974.714L4.469 3.22a.75.75 0 0 1 1.06 0l3.478 3.478a.75.75
+M0 7.75A.75.75 0 0 1 .75 7h14.5a.75.75 0 0 1 0 1.5H.75A.75.75 0 0 1 0 7.75Z
+M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-5.75a5.75 5.75 0 1 0 0 11.5 5.75 5.75 0 1 0 0-11.5Z
+M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z
+M1.5 8a6.5 6.5 0 0 1 13 0A.75.75 0 0 0 16 8a8 8 0 1 0-8 8 .75.75 0 0 0 0-1.5A6.5 6.5 0 0 1 1.5 8Z
+M1.5 8a6.5 6.5 0 1 1 13 0A.75.75 0 0 0 16 8a8 8 0 1 0-8 8 .75.75 0 0 0 0-1.5A6.5 6.5 0 0 1 1.5 8Z
+M10 8a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z
+M10.5 1.286h-9a.214.214 0 0 0-.214.214v9a.214.214 0 0 0 .214.214h9a.214.214 0 0 0
+M10.75 9a.75.75 0 0 0 0 1.5h1.5a.75.75 0 0 0 0-1.5h-1.5Z
+M11 5h1v1.146a1 1 0 0 1-.629.928L11 7.223V5ZM5 7.223l-.371-.149A1 1 0 0 1 4 6.146V5h1v2.223Z
+M11.25 16.25v-5h1.5v5h-1.5Z
+M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z
+M11.646 15.146 5.854 9.354a.5.5 0 0 1 .353-.854h11.586a.5.5 0 0 1 .353.854l-5.793 5.792a.5.5 0 0 1-.707 0Z
+M12 1.5a.75.75 0 0 1 .75.75v6a.75.75 0 0 1-1.5 0v-6A.75.75 0 0 1 12 1.5Z
+M12 13.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z
+M12 18a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z
+M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12Zm0-1.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z
+M12 7a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-1.5 0v-4.5A.75.75 0 0 1 12 7Zm0 10a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z
+m12.354 8.854 5.792 5.792a.5.5 0 0 1-.353.854H6.207a.5.5 0 0 1-.353-.854l5.792-5.792a.5.5 0 0 1 .708 0Z
+M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z
+M12.75 8.75a.75.75 0 0 0-1.5 0v6.5a.75.75 0 0 0 1.5 0v-6.5Z
+M13 15.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-.25-8.25a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z
+M13 17.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-.25-8.25a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z
+M13.414 13.414a2 2 0 1 1-2.828-2.828 2 2 0 0 1 2.828 2.828Z
+M14 6a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z
+M14 6V4.25a.75.75 0 0 1 1.5 0V6h1.75a.75.75 0 1 1 0 1.5H15.5v1.75a.75.75 0 0
+M14 8A6 6 0 1 1 2 8a6 6 0 0 1 12 0Zm-1.5 0a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0Z
+M14.5 11.25a.75.75 0 0 0 0-1.5h-8a.75.75 0 0 0 0 1.5h8Z
+M14.5 12a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Zm1.5 0a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z
+M14.5 12a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z
+m15.146 12.354-5.792 5.792a.5.5 0 0 1-.854-.353V6.207a.5.5 0 0 1 .854-.353l5.792 5.792a.5.5 0 0 1 0 .708Z
+M15.25 14a.75.75 0 0 0 0 1.5h3.5a.75.75 0 0 0 0-1.5h-3.5Z
+M15.5 12a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z
+M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0Zm-1.5 0a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z
+M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z
+M16.243 7.757a.75.75 0 1 0-1.061 1.061 4.5 4.5 0 0 1 0 6.364.75.75 0 0 0 1.06 1.06 6 6 0 0 0 0-8.485Z
+M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z
+M16.75 8.5a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5Z
+M17.03 9.78a.75.75 0 0 0-1.06-1.06l-5.47 5.47-2.47-2.47a.75.75 0 0 0-1.06 1.06l3 3a.75.75 0 0 0 1.06 0l6-6Z
+M17.28 7.78a.75.75 0 0 0-1.06-1.06l-9.5 9.5a.75.75 0 1 0 1.06 1.06l9.5-9.5Z
+M2 12.75a.75.75 0 0 1 .75-.75h18.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1-.75-.75Z
+M2 7.75A.75.75 0 0 1 2.75 7h10a.75.75 0 0 1 0 1.5h-10A.75.75 0 0 1 2 7.75Z
+M2.5 2.75a.75.75 0 0 0-1.5 0v18.5c0 .414.336.75.75.75H20a.75.75 0 0 0 0-1.5H2.5V2.75Z
+M21 12a9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9 9 9 0 0 1 9 9Zm-1.5 0a7.5 7.5 0 1 0-15 0 7.5 7.5 0 0 0 15 0Z
+M24 5.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z
+M3.75 8a4.25 4.25 0 1 1 8.5 0 4.25 4.25 0 0 1-8.5 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z
+M4 8a4 4 0 1 1 8 0 4 4 0 0 1-8 0Zm4-2.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z
+m4.177 7.823 2.396-2.396A.25.25 0 0 1 7 5.604v4.792a.25.25 0 0 1-.427.177L4.177 8.177a.25.25 0 0 1 0-.354Z
+M4.25 7.25a.75.75 0 0 0 0 1.5h7.5a.75.75 0 0 0 0-1.5h-7.5Z
+m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z
+m4.427 9.573 3.396-3.396a.25.25 0 0 1 .354 0l3.396 3.396a.25.25 0 0 1-.177.427H4.604a.25.25 0 0 1-.177-.427Z
+M4.5 12.75a.75.75 0 0 1 .75-.75h13.5a.75.75 0 0 1 0 1.5H5.25a.75.75 0 0 1-.75-.75Z
+M4.5 6.75h6a.75.75 0 0 1 0 1.5h-6a.75.75 0 0 1 0-1.5Z
+M5 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm6-6a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM8 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z
+M5 5.75A.75.75 0 0 1 5.75 5h4.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-.75.75h-4.5a.75.75 0 0 1-.75-.75Z
+M5.75 16.75A.75.75 0 0 1 5 16V8a.75.75 0 0 1 1.5 0v8a.75.75 0 0 1-.75.75Z
+M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm3 5H3v2h6Z
+M6 10.559V5.442a.25.25 0 0 1 .379-.215l4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559Z
+m6.427 4.427 3.396 3.396a.25.25 0 0 1 0 .354l-3.396 3.396A.25.25 0 0 1 6 11.396V4.604a.25.25 0 0 1 .427-.177Z
+M6.5 7.25c0 2.9 2.35 5.25 5.25 5.25h4.5V14h-4.5A6.75 6.75 0 0 1 5 7.25Z
+M6.823 7.823a.25.25 0 0 1 0 .354l-2.396 2.396A.25.25 0 0 1 4 10.396V5.604a.25.25 0 0 1 .427-.177Z
+M7.22 6.5a.72.72 0 1 1-1.44 0 .72.72 0 0 1 1.44 0Z
+M7.313 11.25a.75.75 0 0 0 0 1.5h9.937a.75.75 0 0 0 0-1.5H7.312Z
+M7.75 6.5a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5Z
+m7.854 10.854 3.792 3.792a.5.5 0 0 0 .708 0l3.793-3.792a.5.5 0 0 0-.354-.854H8.207a.5.5 0 0 0-.353.854Z
+M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z
+M8 10a2 2 0 1 0 .001-3.999A2 2 0 0 0 8 10Z
+M8 11a2 2 0 1 1 .001 3.999A2 2 0 0 1 8 11ZM8 1a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-3 0v-6A1.5 1.5 0 0 1 8 1Z
+M8 12c0-.414.358-.75.8-.75h6.4c.442 0 .8.336.8.75s-.358.75-.8.75H8.8c-.442 0-.8-.336-.8-.75Z
+M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Zm0-1.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z
+M8 2.5c1.645 0 3.123.722 4.131 1.869l-1.204 1.204a.25.25 0 0 0 .177.427h3.646a.25.25
+M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z
+M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z
+M8.63 7.749c0 .414-.336.75-.75.75-.414 0-.75-.336-.75-.75 0-.414.336-.75.75-.75.414 0 .75.336.75.75z
+M8.75 5.75a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z
+m8.854 11.646 5.792-5.792a.5.5 0 0 1 .854.353v11.586a.5.5 0 0 1-.854.353l-5.792-5.792a.5.5 0 0 1 0-.708Z
+M9 10.75a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0ZM16.25 12a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5Z
+M9 15.584V8.416a.5.5 0 0 1 .77-.42l5.576 3.583a.5.5 0 0 1 0 .842L9.77 16.005a.5.5 0 0 1-.77-.42Z
+M9.06 9.06a1.5 1.5 0 1 1-2.12-2.12 1.5 1.5 0 0 1 2.12 2.12Z
+M9.5 15.584V8.416a.5.5 0 0 1 .77-.42l5.576 3.583a.5.5 0 0 1 0 .842l-5.576 3.584a.5.5 0 0 1-.77-.42Z
+M9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z
+M9.573 4.427 6.177 7.823a.25.25 0 0 0 0 .354l3.396 3.396a.25.25 0 0 0 .427-.177V4.604a.25.25 0 0 0-.427-.177Z
+M9.75 11.5a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5h-4.5Z
+MaxAuthorsToList)
+MaxFilesToList)
+MaxRepositoriesToList)
+MaxTagNameLength)
+merge-message merge-message-loading
+MiB
+MINUTE)
+Model changes apply to future conflict resolutions.
+modified and untracked
+nextTruncatedIx)
+no-items empty-repository-list
+no-items loading
+no-items no-results-found
+non-re-run-info warning-helper-text
+no-padding terms-and-license
+organization has enabled or enforced SAML SSO.*?you must re-authorize/s
+p.id === provider.id))
+PageDown
+PageUp
+panel binary
+panel blankslate
+panel empty
+panel empty large-diff
+panel image
+panel renamed
+parseInt(h, 10)) as Array
+PiB
+PreferencesTab.Copilot)
+Promise
+public constructor(allBranches: ReadonlyArray
+public constructor(emoji: Map
+PullRequestDatabase
+push-branch-commits-title push-branch-commits-message
+quickViewHeight)
+readonly accounts: ReadonlyArray
+readonly byokProviders: ReadonlyArray
+readonly cachedRepoRulesets: ReadonlyMap
+readonly commitLookup: Map
+readonly copilotResolutions: ReadonlyArray
+readonly emoji: Map
+readonly items: ReadonlyArray
+readonly localCommitSHAs: ReadonlyArray
+readonly newContents: ReadonlyArray
+readonly newLineFilter: Array
+readonly newReleases: ReadonlyArray
+readonly nonRerunnable: ReadonlyArray
+readonly onFileSelectionChanged: (rows: ReadonlyArray
+readonly pullRequests: ReadonlyArray
+readonly recentRepositories: ReadonlyArray
+readonly selectedCommits: ReadonlyArray
+readonly selectedItems: ReadonlyArray
+readonly shasInDiff: ReadonlyArray
+readonly userContributions: ReadonlyArray
+remote:
+repository-list-item-tooltip list-item-tooltip
+resize-handle left
+resize-handle top
+ResizeObserver loop completed with undelivered notifications.
+RetryLimit)
+return (
+rowHeight=
+s behalf,
+s choice)
+s default branch.
+s hosting service, you might need to
+s logos include, for instance, the stylized designs that
+s prior, written
+s Privacy Statement,
+s source code
+selectable path-text
+select-component no-options-found
+Shell
+side-by-side-diff cm-s-default
+SignInToDotComWithBrowser
+SignInToEnterprise
+small-button button-group-item
+small-button button-group-item arrow-menu
+small-button button-group-item resolve-arrow-menu
+state.fullPath === fullPath ?
+StatsDatabase
+status status-
+support@github.com
+textarea:not(:disabled):not([tabindex="-1"])
+The DropdownSuggestedActions component was provided an empty array. It requires an array of at least one item.
+theme-
+this.createCommit(
+this.setState(
+this.state.availableWidth)
+this.state.commitMessage.timestamp)
+TiB
+tutorial-panel-component panel
+used_in_tests
+user.email
+user.name
+void)
+void): Disposable
+warn-force-push-confirmation-title warn-force-push-confirmation-message
+WEBGL_compressed_texture_s3tc
+will_fix_later
+window.innerHeight - titleBarHeight)
+YiB
+your-email@example.com
+ZiB

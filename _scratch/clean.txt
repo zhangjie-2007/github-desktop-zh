@@ -1,0 +1,1389 @@
+﻿&nbsp;
+&nbsp;&nbsp;
+&nbsp;as determined by your
+A branch named
+a commit
+A force push will rewrite history on
+A new attempt of
+a new branch
+A repository must have a GitHub repository to add an upstream remote
+A repository must have a parent repository to add an upstream remote
+A tag named
+Able to merge.
+Abort
+About
+Accessibility
+Account
+Accounts
+Act on behalf of the secret's owner
+Add
+Add a local repository
+Add a repository to GitHub Desktop to start collaborating
+Add certificate
+Add co-authors
+Add custom provider
+Add GitHub Enterprise account
+Add local repository
+Add model
+Add repository
+Add Signed-off-by trailer
+add this repository
+Add worktree
+Added
+Additional Services
+Adjust the filters to see all
+Advanced
+AI credits
+AI credits per
+Alias
+All checks have failed
+All checks have passed
+All conflicted files have been resolved.
+All conflicts resolved
+All resolutions have been undone.
+Allow empty commit
+Allow me to expose this secret
+Allowing secrets risks exposure. Consider
+already exists
+already exists on the remote.
+Already installed it? Let us know where in
+Also move this repository to
+Always available in the toolbar for local repositories or
+Always available in the toolbar or
+Always available in the toolbar when there are remote changes or
+Always bring my changes to my new branch
+Always show worktree list
+Always stash and leave my changes on the current branch
+Always use Copilot for conflict resolution?
+Always use Copilot when conflicts are detected
+Amending
+An optimized version of GitHub Desktop is available for your
+An update has been downloaded and is ready to be installed.
+Anthropic
+Any models you have configured for it will no longer be available.
+API format
+API key
+App location
+Appearance
+appearance-section formatting-section
+Apple silicon
+Application menu
+Application Terms
+Applications
+AppMenu): Promise
+Archived
+Are you sure you want to
+Are you sure you want to abort this
+Are you sure you want to commit these conflicted files?
+Are you sure you want to continue connecting?
+Are you sure you want to delete the tag
+Are you sure you want to delete the worktree
+Are you sure you want to discard all
+Are you sure you want to discard all changes to:
+Are you sure you want to discard the selected changes to:
+Are you sure you want to discard these stashed changes?
+Are you sure you want to force push?
+Are you sure you want to remove the custom provider
+Are you sure you want to remove the repository "
+Arguments
+Arm64
+ArrowDown
+ArrowLeft
+ArrowRight
+ArrowUp
+AS IS
+Ask me where I want the changes to go
+at line
+At the end of the
+Atom
+Author
+author selectable
+Autocompletion of user and issues will be based on
+Auto-Update Services
+Avatar token missing
+Avatar tokens are only available for ghe.com
+Avatar URL already resolved or endpoint is missing
+avatar-more avatar
+AvatarStack
+AvatarStack-body
+AvatarStack--plus
+AvatarStack--small
+AvatarStack--three
+AvatarStack--two
+Azure
+Azure API version
+Background updates
+Backspace
+Base URL
+Base URL must be an https URL, or an http URL pointing at the local machine.
+base:
+Bearer token
+before creating your pull request?
+Beta Channel
+botAvatarCache.set(
+Branch filter
+Branch name
+Branches
+branches-list-content filter-list-group-header
+branches-list-item new-branch-drop
+branches-list-item-tooltip list-item-tooltip
+Bugfixes
+button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])
+button:not(:disabled):not([tabindex="-1"])
+By creating an account, you agree to the
+Bypass
+Bypass Commit hooks
+Bypass push detection
+Bypassed
+Cache Git hook environment variables
+Cached input
+Cancel
+Cancel generating commit details
+Cannot publish detached HEAD
+Cannot resolve while operation is being aborted
+Can't automatically merge.
+Can't find "
+Change
+Change resolution choice
+Changes
+Changes can be restored by retrieving them from the
+changes-interstitial submodule-diff
+changes-list-container file-list filtered-changes-list
+Chat completions (default)
+Check for Updates
+Check out the
+Check run steps incoming!
+Check runs incoming!
+Check&nbsp;again.
+Checking for ability to
+Checking for ability to merge automatically...
+Checking mergeability&hellip;
+Checking out a commit
+Checkout
+checkout branch from list
+Checkout commit
+Checkout commit?
+checkout pull request from list
+Checks Summary
+Cherry-pick
+Cherry-pick to new branch
+Cherry-pick undone. Successfully removed the
+Cherry-picking from
+cherry-picking onto
+Choose a base branch
+Choose a branch to merge into
+Choose a model
+Choose a new alias for the repository "
+Choose a resolution
+Choose a resolution for this file
+Choose an account
+Choose GitHub Copilot
+Choose the GitHub Copilot application (.app).
+Choose the GitHub Copilot executable (github.exe).
+ci-check-run-list check-run-rerun-list
+className=
+Clear
+Clear filters
+Clone
+Clone a repository
+Clone Again
+Clone As:
+Clone failed
+CloneRepository: Path validation failed. Error:
+clone-repository-list-content clone-repository-list-group-header
+Cloning
+Close
+Co-Authored-By
+Co-Authors&nbsp;
+Collapse
+Collapse commit details
+Collapse description
+Collapse expanded lines
+Command line arguments
+Command line tool installed
+command prompt
+commented on
+Commit
+Commit anyway
+Commit description
+Commit filtered changes?
+Commit Length
+Commit may be misattributed. View warning.
+Commit message generation
+Commit message override
+Commit message rule failures
+Commit reachability
+Commit summary
+commit-list-item-tooltip list-item-tooltip
+commit-message-failure-hint button-component
+Commits
+Committed
+Committing
+Committing as
+Committing changes hidden by filter
+Committing with
+Common reasons are:
+Configure commit options
+Configure Copilot in app settings
+Configure Git
+Configure manually
+ConfigureGit
+Confirm committing conflicted files
+Confirm discard all changes
+Confirm discard changes
+Conflict resolution
+Conflict state missing during finishConflictedMerge. No merge will be committed.
+ConflictsDialog: onAbort failed
+ConflictsDialog: onSubmit failed
+Connecting to GitHub
+Considering both sides of each conflict
+content-pane repository-list
+Context
+Continue
+Continue in browser
+Continue rebase
+Continue with browser
+Contribute to a project that interests you
+Copied!
+Copilot
+Copilot conflict resolution summary
+Copilot features in GitHub Desktop require a GitHub Copilot license.
+Copilot Instructions
+Copilot is powered by AI, so mistakes are possible.
+Copilot settings
+copilot-byok-fieldset copilot-byok-models
+copilot-changes-diff-subheader expanded
+copilot-conflicts-file-heading copilot-conflicts-skipped-heading
+copilot-file-explanation resolved-text
+copilot-model-list-group filter-list-group-header
+copilot-section copilot-account-snapshot-groups
+Copy
+Copy branch name
+Copy file path
+Copy paths
+Copy relative file path
+Copy relative paths
+Copy repo name
+Copy repo path
+Copy SHA
+Copy tag
+Copy tags
+Copy the full SHA
+Copy to
+Copy worktree name
+Copy worktree path
+Could not determine the default branch.
+Could not find a default branch to compare against.
+Could not list worktrees
+Could not load new contents for syntax highlighting
+Could not load old contents for syntax highlighting
+Create
+Create a branch
+create a fork
+Create a merge commit
+create a new branch
+Create a new repository
+create a pull request
+create a repository
+Create a tag
+create branch
+Create branch and cherry-pick
+Create branch from commit
+create commit
+Create new branch
+Create repository
+create tag
+Create without pushing
+Create worktree
+Create your free account.
+creating the fork manually on GitHub
+Creative Commons Attribution license
+Cross-referencing related files
+Current
+Current branch
+Current branch dropdown button
+Current repository
+Current worktree
+Current worktree dropdown button
+Current:
+Currently on a detached HEAD
+custom instructions
+Custom providers
+Dark
+Date format
+Date:
+Decrease
+Default
+Default (provider's choice)
+default branch
+Default branch name for new repositories
+Delete
+Delete branch
+Delete file
+Delete remote branch
+Delete tag
+delete the lock file
+Delete worktree
+Delete worktree failed
+delete-branch-confirmation-message delete-branch-confirmation-message-remote
+Deleted
+Deleted files
+Deleting the worktree
+Description
+Detached HEAD
+Determining which checks can be re-run.
+Dialog_about
+Dialog_Copilot_Conflicts
+Dialog_Open_Pull_Request
+dialog-banner dialog-error
+dialog-banner dialog-success
+Diff display
+Diff tab size
+Diff:
+Difference
+Disable commit spellcheck
+Discard
+Discard all changes
+discard changes
+Discard stash?
+discard-changes-confirmation-file-list discard-changes-confirmation-message
+Discarded changes will be unrecoverable
+Discarding changes
+Discarding changes permanently
+Discarding stash
+Disclaimers and Limitations of Liability
+Dismiss
+Dismiss this message
+Display name
+div[role=row]
+div[role=row]:first-child
+div[role=row]:last-child
+do not
+Do not show this message again
+Do you want to continue anyway?
+Do you want to create a new branch instead?
+Do you want to fork this repository?
+Do you want to switch to that Pull Request now and start fixing
+documentation that is included with the Software.
+does not
+does not match
+DOMContentLoaded
+Down
+downloading GitHub Copilot
+Draft
+Drag the commits to squash or reorder them.
+Drag the commits to the branch menu to cherry-pick them.
+ecs-description-text selectable
+ecs-meta-item authors
+ecs-meta-item commit-ref
+ecs-meta-item lines-added-deleted
+ecs-meta-item tags selectable
+Edit a file
+Edit custom provider
+Edit model
+edit your global Git config file
+Editing
+EiB
+either of your GitHub.com nor GitHub Enterprise accounts
+elem.clientWidth)
+Email
+Email address is disallowed. View warning.
+Email does not appear to be a bot email
+Empty commit message
+Enable commit spellcheck
+Enable notifications
+encodeModelKey(
+End
+Enhancements
+ENOTDIR
+Enter
+Enterprise
+Enterprise address
+Error checking merge status.
+Error details
+Error installing CLI
+Error linking program:
+Error loading DDS image:
+Error loading licenses
+Error parsing updates url
+Error updating priority update status
+error:
+Esc
+Escape
+Example commit
+Exciting new features have been added
+Exclude selected files
+Excluded from commit
+Executables
+existing-repository-path-error path-is-subfolder-of-repository
+existing-repository-path-error repo-sanitized-name-warning
+Exit tutorial
+Expand
+Expand All
+Expand commit details
+Expand description
+Expand Down
+Expand Up
+Expand whole file
+Expanded
+Expected:
+Experience agent-driven development built natively on GitHub.
+Explore projects on GitHub
+Explorer
+Exposing this secret can allow someone to:
+extends AutocompletingTextInput
+extends React.Component
+External editor
+F10
+F11
+Failed determining mergeability
+Failed to compile fragment shader
+Failed to compile vertex shader
+Failed to compute resolution diff
+Failed to create WebGLBuffer
+Failed to create WebGLVertexArrayObject
+Failed to discard changes to
+Failed to find the newly created worktree
+Failed to get WEBGL_compressed_texture_s3tc extension
+Failed to get webgl2 context
+Failed to ignore file(s)
+Failed to ignore pattern(s)
+Failed to parse custom integration arguments:
+Failed to push
+Failed to start pull request because pull request state was null
+Failed to unlink config lock file
+Failed to update Git configuration file. A lock file already exists at
+failed.
+false_positive
+Fetch
+File does not exist on disk
+file has
+File options
+File resolution options
+File size limit exceeded
+files have
+Files that exceed the limit
+Files too large
+files would be overwritten
+Filter
+Filter models
+Filter Options
+Filter your repositories
+filteredItems.size)
+Finder
+Finish
+Fix all the things
+For my own purposes
+For this repository I wish to
+for your repository
+force push
+Force pushing
+Forcefully delete
+Fork behavior
+fork behavior settings
+Fork this repository
+formatNumber(value,
+Formatting
+Full Name:
+Generate commit message with Copilot
+generate-commit-message-override-warning-body generate-commit-message-override-warning-tip
+Get started
+Get started on a brand new project
+getHunkKeyIndex(key)
+GiB
+Git
+Git config
+Git Credential Manager
+Git ignore
+Git is configured to convert them
+Git is requesting permission to sign in to this server:
+Git LFS
+Git LFS filters are already configured in
+Git requesting credentials to access
+GitHub Desktop also distributes these libraries:
+GitHub Desktop cannot verify the identity of
+GitHub Open Source Applications Terms and Conditions
+GitHub Privacy Statement
+GitHub Privacy Statement.
+GitHub.com
+github.sh
+GitHub's default branch name is
+GitHub's Logos
+GitHubUserDatabase
+Global
+GPT-4o
+Great commit summaries contain fewer than 50 characters
+Great commit summaries contain fewer than 50 characters. Place extra information in the description field.
+Hands clapping
+Hang tight
+Hang Tight. Loading pull requests as fast as I can!
+has been
+HEAD^
+header filter-field-row
+Help GitHub Desktop improve by submitting
+hidden changes
+Hidden changes will be committed.
+Hide whitespace changes
+Highlighter worked failed for new contents
+Highlighter worked failed for old contents
+Home
+Hooks
+How are you planning to use this fork?
+Html syntax icon
+Hunk
+hunk-expansion-handle selectable hoverable
+I have an editor
+I understand
+Icon Preview
+icon spin
+if (rowListIncludesIndexPath(this.props.selectedRows, row))
+if (this.props.selectedRows.includes(row))
+If I have changes and I switch branches...
+If this is a GitHub Enterprise trial.
+If you trust the owner of the directory you can
+Ignore
+Ignore and Continue
+Ignore file (add to .gitignore)
+Ignore folder (add to .gitignore)
+Ignored files
+I'll fix it later
+I'm sure
+important updates
+In some cases, this may be expected. For example:
+Include selected files
+Included in commit
+Incoming
+Increase
+Initialize Git LFS
+Initialize this repository with a README
+Input
+Input cleared
+input:not([type=hidden]):not(:disabled):not([tabindex="-1"])
+input[type=button], input[type=submit] input[type=reset], button
+input[type=submit], button[type=submit]
+Insert here
+Install
+Install a text editor
+Install and restart
+Install Git
+integration docs
+Integrations
+interface IAugmentedSectionFilterListProps
+interface ISectionFilterListRowHeightInfo
+interface ITutorialDoneProps
+Invalid characters have been replaced by hyphens.
+Invalid protocol
+Invalid URL
+Invalidated account token
+is a fork of
+is a protected branch. Want to
+is already up to date
+is already up to date with
+is not a valid name.
+is the
+is the version control system.
+is up to date with all commits from
+Issues will be created in
+IssuesDatabase
+It was last seen at
+item.id === si.id))
+It's a false positive
+Its API key will also be removed from your keychain.
+Its bearer token will also be removed from your keychain.
+its tracked branch.
+It's used in tests
+just now
+Keep file
+Keep this code private
+KiB
+Know which resources the secret(s) can access
+Last fetched
+Last Modified:
+Learn about submodules.
+Learn more
+Learn more about bidirectional Unicode characters
+Learn more about commit attribution
+Learn more about commit signing.
+Learn more about Copilot in GitHub Desktop.
+Learn more about generating commit messages.
+Learn more about GitHub Copilot
+Learn more about gitignore files
+Learn more about remote repositories.
+Learn more about unreachable commits.
+Learn more about user metrics.
+Learn more.
+length)
+Let's get started!
+License
+License and Open Source Notices
+Light
+Line
+Lines changed:
+link-button-component example-link
+listHeight)
+list-insertion-point bottom
+list-insertion-point top
+ListRow
+Load Git hook environment variables from shell
+Loading pull requests as fast as I can!
+Loading system theme
+Local
+local commit
+local only
+Local path
+Looking for related context
+Looking for the latest features?
+Looks like there are no repositories for
+M 0,0 0,0.7 4.3,5 0,9.3 0,10 0.7,10 5,5.7 9.3,10 10,10 10,9.3 5.7,5 10,0.7 10,0 9.3,0 5,4.3 0.7,0 Z
+M 0,0 0,10 10,10 10,0 Z M 1,1 9,1 9,9 1,9 Z
+M 0,5 10,5 10,6 0,6 Z
+m 2,1e-5 0,2 -2,0 0,8 8,0 0,-2 2,0 0,-8 z m 1,1 6,0 0,6 -1,0 0,-5 -5,0 z m -2,2 6,0 0,6 -6,0 z
+m.id === key.modelId))
+M0 6a.75.75 0 0 0 .974.714L4.469 3.22a.75.75 0 0 1 1.06 0l3.478 3.478a.75.75
+M0 7.75A.75.75 0 0 1 .75 7h14.5a.75.75 0 0 1 0 1.5H.75A.75.75 0 0 1 0 7.75Z
+M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-5.75a5.75 5.75 0 1 0 0 11.5 5.75 5.75 0 1 0 0-11.5Z
+M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z
+M1.5 8a6.5 6.5 0 0 1 13 0A.75.75 0 0 0 16 8a8 8 0 1 0-8 8 .75.75 0 0 0 0-1.5A6.5 6.5 0 0 1 1.5 8Z
+M1.5 8a6.5 6.5 0 1 1 13 0A.75.75 0 0 0 16 8a8 8 0 1 0-8 8 .75.75 0 0 0 0-1.5A6.5 6.5 0 0 1 1.5 8Z
+M10 8a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z
+M10.5 1.286h-9a.214.214 0 0 0-.214.214v9a.214.214 0 0 0 .214.214h9a.214.214 0 0 0
+M10.75 9a.75.75 0 0 0 0 1.5h1.5a.75.75 0 0 0 0-1.5h-1.5Z
+M11 5h1v1.146a1 1 0 0 1-.629.928L11 7.223V5ZM5 7.223l-.371-.149A1 1 0 0 1 4 6.146V5h1v2.223Z
+M11.25 16.25v-5h1.5v5h-1.5Z
+M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z
+M11.646 15.146 5.854 9.354a.5.5 0 0 1 .353-.854h11.586a.5.5 0 0 1 .353.854l-5.793 5.792a.5.5 0 0 1-.707 0Z
+M12 1.5a.75.75 0 0 1 .75.75v6a.75.75 0 0 1-1.5 0v-6A.75.75 0 0 1 12 1.5Z
+M12 13.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z
+M12 18a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z
+M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12Zm0-1.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z
+M12 7a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-1.5 0v-4.5A.75.75 0 0 1 12 7Zm0 10a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z
+m12.354 8.854 5.792 5.792a.5.5 0 0 1-.353.854H6.207a.5.5 0 0 1-.353-.854l5.792-5.792a.5.5 0 0 1 .708 0Z
+M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z
+M12.75 8.75a.75.75 0 0 0-1.5 0v6.5a.75.75 0 0 0 1.5 0v-6.5Z
+M13 15.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-.25-8.25a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z
+M13 17.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-.25-8.25a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z
+M13.414 13.414a2 2 0 1 1-2.828-2.828 2 2 0 0 1 2.828 2.828Z
+M14 6a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z
+M14 6V4.25a.75.75 0 0 1 1.5 0V6h1.75a.75.75 0 1 1 0 1.5H15.5v1.75a.75.75 0 0
+M14 8A6 6 0 1 1 2 8a6 6 0 0 1 12 0Zm-1.5 0a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0Z
+M14.5 11.25a.75.75 0 0 0 0-1.5h-8a.75.75 0 0 0 0 1.5h8Z
+M14.5 12a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Zm1.5 0a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z
+M14.5 12a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z
+m15.146 12.354-5.792 5.792a.5.5 0 0 1-.854-.353V6.207a.5.5 0 0 1 .854-.353l5.792 5.792a.5.5 0 0 1 0 .708Z
+M15.25 14a.75.75 0 0 0 0 1.5h3.5a.75.75 0 0 0 0-1.5h-3.5Z
+M15.5 12a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z
+M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0Zm-1.5 0a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z
+M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z
+M16.243 7.757a.75.75 0 1 0-1.061 1.061 4.5 4.5 0 0 1 0 6.364.75.75 0 0 0 1.06 1.06 6 6 0 0 0 0-8.485Z
+M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z
+M16.75 8.5a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5Z
+M17.03 9.78a.75.75 0 0 0-1.06-1.06l-5.47 5.47-2.47-2.47a.75.75 0 0 0-1.06 1.06l3 3a.75.75 0 0 0 1.06 0l6-6Z
+M17.28 7.78a.75.75 0 0 0-1.06-1.06l-9.5 9.5a.75.75 0 1 0 1.06 1.06l9.5-9.5Z
+M2 12.75a.75.75 0 0 1 .75-.75h18.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1-.75-.75Z
+M2 7.75A.75.75 0 0 1 2.75 7h10a.75.75 0 0 1 0 1.5h-10A.75.75 0 0 1 2 7.75Z
+M2.5 2.75a.75.75 0 0 0-1.5 0v18.5c0 .414.336.75.75.75H20a.75.75 0 0 0 0-1.5H2.5V2.75Z
+M21 12a9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9 9 9 0 0 1 9 9Zm-1.5 0a7.5 7.5 0 1 0-15 0 7.5 7.5 0 0 0 15 0Z
+M24 5.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z
+M3.75 8a4.25 4.25 0 1 1 8.5 0 4.25 4.25 0 0 1-8.5 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z
+M4 8a4 4 0 1 1 8 0 4 4 0 0 1-8 0Zm4-2.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z
+m4.177 7.823 2.396-2.396A.25.25 0 0 1 7 5.604v4.792a.25.25 0 0 1-.427.177L4.177 8.177a.25.25 0 0 1 0-.354Z
+M4.25 7.25a.75.75 0 0 0 0 1.5h7.5a.75.75 0 0 0 0-1.5h-7.5Z
+m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z
+m4.427 9.573 3.396-3.396a.25.25 0 0 1 .354 0l3.396 3.396a.25.25 0 0 1-.177.427H4.604a.25.25 0 0 1-.177-.427Z
+M4.5 12.75a.75.75 0 0 1 .75-.75h13.5a.75.75 0 0 1 0 1.5H5.25a.75.75 0 0 1-.75-.75Z
+M4.5 6.75h6a.75.75 0 0 1 0 1.5h-6a.75.75 0 0 1 0-1.5Z
+M5 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm6-6a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM8 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z
+M5 5.75A.75.75 0 0 1 5.75 5h4.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-.75.75h-4.5a.75.75 0 0 1-.75-.75Z
+M5.75 16.75A.75.75 0 0 1 5 16V8a.75.75 0 0 1 1.5 0v8a.75.75 0 0 1-.75.75Z
+M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm3 5H3v2h6Z
+M6 10.559V5.442a.25.25 0 0 1 .379-.215l4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559Z
+m6.427 4.427 3.396 3.396a.25.25 0 0 1 0 .354l-3.396 3.396A.25.25 0 0 1 6 11.396V4.604a.25.25 0 0 1 .427-.177Z
+M6.5 7.25c0 2.9 2.35 5.25 5.25 5.25h4.5V14h-4.5A6.75 6.75 0 0 1 5 7.25Z
+M6.823 7.823a.25.25 0 0 1 0 .354l-2.396 2.396A.25.25 0 0 1 4 10.396V5.604a.25.25 0 0 1 .427-.177Z
+M7.22 6.5a.72.72 0 1 1-1.44 0 .72.72 0 0 1 1.44 0Z
+M7.313 11.25a.75.75 0 0 0 0 1.5h9.937a.75.75 0 0 0 0-1.5H7.312Z
+M7.75 6.5a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5Z
+m7.854 10.854 3.792 3.792a.5.5 0 0 0 .708 0l3.793-3.792a.5.5 0 0 0-.354-.854H8.207a.5.5 0 0 0-.353.854Z
+M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z
+M8 10a2 2 0 1 0 .001-3.999A2 2 0 0 0 8 10Z
+M8 11a2 2 0 1 1 .001 3.999A2 2 0 0 1 8 11ZM8 1a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-3 0v-6A1.5 1.5 0 0 1 8 1Z
+M8 12c0-.414.358-.75.8-.75h6.4c.442 0 .8.336.8.75s-.358.75-.8.75H8.8c-.442 0-.8-.336-.8-.75Z
+M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Zm0-1.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z
+M8 2.5c1.645 0 3.123.722 4.131 1.869l-1.204 1.204a.25.25 0 0 0 .177.427h3.646a.25.25
+M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z
+M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z
+M8.63 7.749c0 .414-.336.75-.75.75-.414 0-.75-.336-.75-.75 0-.414.336-.75.75-.75.414 0 .75.336.75.75z
+M8.75 5.75a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z
+m8.854 11.646 5.792-5.792a.5.5 0 0 1 .854.353v11.586a.5.5 0 0 1-.854.353l-5.792-5.792a.5.5 0 0 1 0-.708Z
+M9 10.75a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0ZM16.25 12a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5Z
+M9 15.584V8.416a.5.5 0 0 1 .77-.42l5.576 3.583a.5.5 0 0 1 0 .842L9.77 16.005a.5.5 0 0 1-.77-.42Z
+M9.06 9.06a1.5 1.5 0 1 1-2.12-2.12 1.5 1.5 0 0 1 2.12 2.12Z
+M9.5 15.584V8.416a.5.5 0 0 1 .77-.42l5.576 3.583a.5.5 0 0 1 0 .842l-5.576 3.584a.5.5 0 0 1-.77-.42Z
+M9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z
+M9.573 4.427 6.177 7.823a.25.25 0 0 0 0 .354l3.396 3.396a.25.25 0 0 0 .427-.177V4.604a.25.25 0 0 0-.427-.177Z
+M9.75 11.5a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5h-4.5Z
+Make a commit
+Manual conflict
+MaxAuthorsToList)
+MaxFilesToList)
+MaxRepositoriesToList)
+MaxTagNameLength)
+Merge
+merge into
+Merge options
+merge-message merge-message-loading
+Merging
+MiB
+Minimize
+MINUTE)
+Miscellanea
+Miscellaneous
+Model changes apply to future conflict resolutions.
+Model identifier
+Models
+Modified
+modified and untracked
+Modified files
+most recent commit
+Move and Restart
+Move GitHub Desktop to the Applications folder?
+My provider
+Name
+Name is invalid, it consists only of disallowed characters.
+Network and credentials
+Never fetched
+New branch
+New branches will be based on
+New files
+New to GitHub?
+New worktree
+Newer commits on remote
+nextTruncatedIx)
+No account found for endpoint
+No avatar url returned from API
+No branches to compare
+No commit selected
+No commits to list
+No conflicts remaining
+No content changes found
+No Copilot models available.
+No Copilot resolution available
+No Copilot resolution available for this file.
+No Copilot usage data available yet.
+No credentials will be sent with requests to this provider.
+No editors found.
+No file selected
+No files in commit
+No files match your current filters
+No history
+No local changes
+No models available
+No models found.
+No models yet. Add at least one to use this provider.
+No newline at end of file
+No open pull requests in
+No other editors found.
+No repositories
+No repository selected
+No results
+No size difference
+No usage limit
+No worktrees found
+no-items empty-repository-list
+no-items loading
+no-items no-results-found
+None
+non-re-run-info warning-helper-text
+no-padding terms-and-license
+not included
+Not now
+Notifications
+Number format
+one or more rules
+Onion Skin
+Only continue if you recognize and trust this server.
+Only whitespace changes found
+Open
+Open a pull request
+open a pull request,
+Open Copilot feature settings
+Open editor
+Open file in external program.
+Open git settings
+Open in browser
+Open in command line,
+Open in external editor
+Open in shell
+Open options
+Open Preferences
+Open pull request
+Open Repository
+Open Source Licenses and Notices
+Open Summary Length Info
+Open the Atom website
+Open this repository in your preferred text editor. Edit the
+Open this submodule on GitHub Desktop
+Open with default program
+Open without Git
+Open Your Card
+OpenAI / OpenAI-compatible
+OpenAI-compatible
+organization has enabled or enforced SAML SSO.*?you must re-authorize/s
+Other branches
+Output
+Override
+Overriding commit message with generated message
+Overwrite
+Overwrite any changes on
+Overwrite stash?
+p.id === provider.id))
+Packages
+PageDown
+PageUp
+panel binary
+panel blankslate
+panel empty
+panel empty large-diff
+panel image
+panel renamed
+parseInt(h, 10)) as Array
+Partially checked check list
+partially included
+Password
+Path to executable
+path to GitHub Copilot.app
+Path:
+People with discussion bubbles overhead
+Permanently discard changes
+PiB
+Place extra information in the description field.
+Please add at least one model.
+Please enter a base URL.
+Please enter a bearer token.
+Please enter a model identifier.
+Please enter a name.
+Please enter an API key.
+Please wait
+Prefer absolute dates over relative
+Preferences
+PreferencesTab.Copilot)
+Premium requests
+Press
+Preview Pull Request
+Previous tags
+Privacy
+Promise
+Prompts
+ProTip!
+ProTip! Press
+Provider
+public constructor(allBranches: ReadonlyArray
+public constructor(emoji: Map
+Publish
+Publish branch
+Publish branch?
+Publish repository
+Publish this branch to GitHub
+Publish this branch to the remote
+Publish this repository to GitHub
+Publish to GitHub
+Publish your branch
+Publish your repository to GitHub
+Publish your repository to GitHub. Need help?
+Pull request file list
+Pull request markdown body
+Pull request markdown comment
+Pull requests
+Pull requests in
+Pull requests targeting
+PullRequestDatabase
+Push blocked: secret detected
+Push commits
+Push pull button
+Push rejected
+Push the secret(s) to this repository without being blocked
+Push, pull, fetch options
+push-branch-commits-title push-branch-commits-message
+quickViewHeight)
+Quit and Install Update
+Quit anyway
+Reachable
+Reading recent commit history
+readonly accounts: ReadonlyArray
+readonly byokProviders: ReadonlyArray
+readonly cachedRepoRulesets: ReadonlyMap
+readonly commitLookup: Map
+readonly copilotResolutions: ReadonlyArray
+readonly emoji: Map
+readonly items: ReadonlyArray
+readonly localCommitSHAs: ReadonlyArray
+readonly newContents: ReadonlyArray
+readonly newLineFilter: Array
+readonly newReleases: ReadonlyArray
+readonly nonRerunnable: ReadonlyArray
+readonly onFileSelectionChanged: (rows: ReadonlyArray
+readonly pullRequests: ReadonlyArray
+readonly recentRepositories: ReadonlyArray
+readonly selectedCommits: ReadonlyArray
+readonly selectedItems: ReadonlyArray
+readonly shasInDiff: ReadonlyArray
+readonly userContributions: ReadonlyArray
+Reasoning
+Reasoning effort
+Re-authorization required
+Rebase
+Rebase in progress
+Rebasing
+Rebasing branch
+Recent
+Recent branches
+Recycle Bin
+release notes
+Release notes generated from markdown
+Remember passphrase
+Remember password
+Remote
+Remote URL
+remote:
+Remove
+Remove alias
+Remove co-authors
+Remove custom provider
+Remove repository
+Removed
+Removing repositories
+removing the secret from your commit and commit history.
+Removing worktrees
+Rename branch
+Rename worktree
+Reorder commit
+Reorder commits
+Reorder of
+Reordering
+reordering commits on
+repository name
+repository path
+repository settings
+Repository sidebar
+Repository URL or GitHub username and repository
+repository-list-item-tooltip list-item-tooltip
+request an exemption
+Request timeout (seconds)
+Request timeout must be a positive number of seconds.
+requested changes on
+Re-run
+Re-run all checks
+Re-run Checks
+Re-run failed checks
+Reset to commit
+Resize handle
+resize-handle left
+resize-handle top
+ResizeObserver loop completed with undelivered notifications.
+Resolution summary
+Resolve
+Resolve all changes before continuing
+Resolve all conflicts before continuing
+Resolve conflicts and commit to merge into
+Resolve conflicts to continue
+Resolve conflicts to continue cherry-picking onto
+Resolve conflicts to continue rebasing
+Resolve with Copilot
+Responses (GPT-5 series)
+Responsible use of Copilot in GitHub Desktop
+restart GitHub Desktop
+Restore
+restore stashed changes
+Restricted access to move the file(s).
+Retry clone
+RetryLimit)
+return (
+Return to in progress tutorial
+Reveal in Finder
+Revert changes in commit
+Revert progress button
+Review and edit the generated message carefully before use.
+Review requested
+Reviewing the changes from each side
+Right click on multiple commits to see options.
+rowHeight=
+Rules
+s behalf,
+s choice)
+s default branch.
+s hosting service, you might need to
+s logos include, for instance, the stylized designs that
+s prior, written
+s Privacy Statement,
+s source code
+Save
+Search for user
+Secret Scanning
+Secrets
+See
+Select
+Select a base branch above.
+Select a repository
+Select all
+Select an editor
+Select your editor in
+selectable path-text
+select-component no-options-found
+Selected commit file list
+Selecting lines is disabled when hiding whitespace changes.
+Server stack with cloud
+Service
+Shell
+Shell to use when loading environment
+Show a confirmation dialog before...
+Show check marks in the diff
+Show commit length warning
+Show commit progress
+Show Copilot model credit costs
+Show credit costs
+Show diff
+Show in Explorer
+Show in your File Manager
+Show Less Locations
+Show More locations
+Show status icons in the repository list
+Show whitespace changes?
+Show worktrees
+Showing changes from
+Showing changes from all commits
+side-by-side-diff cm-s-default
+Sign in
+Sign in to an account with a Copilot license to configure Copilot settings.
+Sign in to GitHub Enterprise
+Sign in to your GitHub Enterprise
+Sign in to your GitHub.com account to access your repositories.
+Sign in using your browser
+Sign into
+Sign out
+SignInToDotComWithBrowser
+SignInToEnterprise
+Single
+Size:
+Skip
+Skip this step
+small-button button-group-item
+small-button button-group-item arrow-menu
+small-button button-group-item resolve-arrow-menu
+Software
+Some checks haven't completed yet
+Some checks were not successful
+Some files were skipped by Copilot. Those need to be resolved manually.
+Sorry, I can't find any repository matching
+Sorry, I can't find that branch
+Sorry, I can't find that pull request!
+Sorry, I can't find that remote branch.
+Sorry, I can't find that repository
+Spaces and invalid characters have been replaced by hyphens.
+Split
+Squash
+Squash and
+Squash and merge
+Squash of
+squashing commits on
+Squashing into
+SSH Host
+SSH Key Passphrase
+SSH User Password
+Stand By
+Start
+Start tutorial
+Stash all changes
+stash and checkout
+Stash changes and continue
+Stash file list
+Stashed changes
+state.fullPath === fullPath ?
+StatsDatabase
+status status-
+Stop amending
+Submodule changes
+Successfully copied
+Successfully merged
+Successfully merged into
+Successfully rebased
+Successfully reordered
+Successfully squashed
+Suggested actions for this branch
+Summary
+Summary (required)
+Support details
+support@github.com
+Supported operating systems
+Swipe
+Switch branch
+switch branches
+Switch to manual
+Switch to pull request
+Switch to repository and pull request
+System
+t automatically merge.
+t be
+t been published
+t been pushed to the remote yet.
+t determine the last time an update check was performed. You
+t find the GitHub Copilot App on your machine. Experience
+t found and won
+Tab
+Tailor how Copilot behaves by using
+target branch
+Terminal window
+Terms and Conditions
+Terms of Service
+textarea:not(:disabled):not([tabindex="-1"])
+Thanks so much for all your hard work on GitHub Desktop
+The
+The "
+The authenticity of host '
+The branch name
+The command line tool has been installed at
+The commits from the selected branch will be added to the current branch via a merge commit.
+The commits from the selected branch will be rebased and added to the current branch.
+The commits in the selected branch will be combined into one commit in the current branch.
+The compared branch (
+The current branch (
+The current branch is already up to date with the selected branch.
+The currently checked out branch is
+The currently checked out branch. Pick this if you need to build on work done on this branch.
+The Desktop team would like to thank you for your contributions.
+The detected string is not a secret
+The diff is too large to be displayed by default.
+The diff is too large to be displayed.
+The directory
+The DropdownSuggestedActions component was provided an empty array. It requires an array of at least one item.
+The email in your global Git config (
+The exact name your provider expects (e.g.
+The file is empty
+The file is in conflict and must be resolved via the command line.
+The file was renamed and includes changes.
+The file was renamed but not changed
+The following files are over 100MB.
+The following files would be overwritten:
+The friendly name shown in the Copilot model picker.
+The Git repository
+The Git repository at
+the password for the user
+the remote
+The repositories use
+The repository
+The repository will be created at
+The repository will be removed from GitHub Desktop:
+The tag name cannot be longer than
+Theme
+theme-
+There are no changes.
+There are no steps to display for this check.
+There are uncommitted changes in this repository
+There is already a file with this name. Git can only clone to a folder.
+There will be
+These arguments are not valid.
+These changes will be unrecoverable from the
+These preferences will
+these workflows
+This action cannot be undone.
+This binary file has changed.
+This branch is tracking
+This branch may have an open pull request associated with it.
+This change can be committed to the parent repository.
+This commit has not been pushed to the remote repository
+This commit message
+This commit will be misattributed
+This directory appears to be a bare repository. Bare repositories are not currently supported.
+This directory contains a
+This directory contains a README.md file already. Checking
+This directory does not appear to be a Git repository.
+This directory does not appear to be a Git repository. Would you like to create a repository here instead?
+This email address is disallowed
+This file uses '
+This folder contains files. Git can only clone to empty folders.
+This is a submodule based on the repository
+This is an example link
+This may indicate attackers are trying to steal your data.
+This path does not appear to be a valid executable.
+This repository is a fork. How do you plan to use it?
+This repository uses
+This submodule
+This submodule changed its commit from
+This submodule has
+This version of GitHub Desktop is missing
+This will create a stash with your current changes. You can recover them by restoring the stash afterwards.
+This will fast-forward
+This will merge
+This will move GitHub Desktop to the Applications folder in your machine and restart the app.
+This will not affect the original repository name on GitHub.
+This will update
+this.createCommit(
+this.setState(
+this.state.availableWidth)
+this.state.commitMessage.timestamp)
+Throw It Away
+TiB
+Time format
+Tip is in unknown state. Cherry-pick aborted.
+Tip is not in a valid state, which is required to initialize the merge operation
+Tip is not in a valid state, which is required to start the cherry-pick flow
+Tip is not in a valid state, which is required to start the cherry-pick flow.
+Tip is not in a valid state, which is required to start the merge operation
+Tip is not in a valid state, which is required to start the rebase flow
+Tip: You can use
+to confirm.
+To contribute to the parent project
+To contribute to the parent repository
+to GitHub
+Toggle password visibility
+Trash
+Trust repository
+tutorial-panel-component panel
+Type
+Unable to
+Unable to display diff when multiple non-consecutive selected.
+Unable to load the diff for this file.
+Unable to locate Git
+Unable to merge unrelated histories in this repository
+Unable to open external editor
+Unable to open shell
+Unable to read path on disk. Please check the path and try again.
+Unable to set cursor position when element is null
+Unable to start rebase. Check you have chosen a valid branch.
+Unavailable
+Uncaught exception
+Underline links
+Undo
+Undo commit
+Undo is disabled while the repository is being updated
+Unexpected null line
+Unified
+Unknown
+Unknown address
+Unknown anchor position
+Unknown co-authors
+Unknown file change type
+Unknown license
+Unknown repository section
+Unknown user
+Unreachable
+Unsupported format
+Unsupported key
+Untitled model
+Untracked files will be excluded
+Untrusted server
+Update
+Update email
+Update existing filters
+Update existing Git LFS filters?
+Upstream already exists
+URL or username/repository
+Usage
+usage stats
+Use
+Use a local Git config
+Use Copilot to suggest resolutions for conflicted files
+Use Copilot's suggestion
+Use current file
+Use Git Credential Manager
+Use incoming file
+Use my global Git config
+Use system OpenSSH (recommended)
+used_in_tests
+user not found
+user unknown
+user.email
+user.name
+Username
+Using Copilot's merged resolution
+ve created a repository recently.
+ve detected that you
+ve signed in.
+Verify the identity of the secret(s)
+Version
+View
+View all release notes
+View all rulesets for this branch.
+View Branch on GitHub
+View Certificate
+View check details
+View commit author information
+View conflicts
+View Copilot plans
+View on GitHub
+View on GitHub Enterprise
+View Pull Request on GitHub
+View stash
+View your stashed changes
+void)
+void): Disposable
+warn-force-push-confirmation-title warn-force-push-confirmation-message
+Warning
+Warning:
+We recommend you avoid committing these files or use
+We were unable to authenticate with
+We will help you contribute to the
+WEBGL_compressed_texture_s3tc
+Welcome to
+Welcome to GitHub Desktop
+what's new
+Whitespace
+Will be
+Will be created as
+Will check out existing branch
+Will check out remote branch
+will_fix_later
+window.innerHeight - titleBarHeight)
+with the account
+Work on an existing project in GitHub Desktop
+Worktree
+worktree name
+worktree path
+Worktree will be created at
+Would you like to
+Would you like to forcefully delete the worktree
+Would you like to publish
+Would you like to push your changes to
+Would you like to retry cloning
+Would you like to update the remote to use the expected URL?
+Yes
+Yes, commit files
+Yes, delete this branch on the remote
+YiB
+You are not able to cherry-pick from and to the same branch
+You are not able to rebase this branch onto itself.
+You can
+You can also set an email local to this repository from the
+You can only open pull requests against remote branches.
+You can open this submodule on GitHub Desktop as a normal repository to manage and commit any changes in it.
+You can stash your changes now and recover them afterwards.
+You can update your
+You can:
+You contributed:
+You don't have write access to
+You have
+You have a filter applied. There are
+You have changes on this branch. What would you like to do with them?
+You have the latest version (last checked
+You will
+Your Account Emails
+Your branch is up to date with the compared branch (
+Your branch must be published before opening a pull request.
+Your changes will modify your
+Your commits will be wrongly attributed.
+Your default branch source is determined by your
+Your default editor is
+your File Manager
+your global git config
+Your in-progress work will be stashed on this branch for you to return to later
+Your in-progress work will follow you to the new branch
+Your Name
+Your new branch will be based on
+Your new branch will be based on the commit '
+Your new branch will be based on your currently checked out branch (
+Your repositories
+your username and password
+You're all set!
+You're already signed in to
+You're done!
+your-email@example.com
+ZiB

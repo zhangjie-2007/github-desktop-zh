@@ -1,0 +1,185 @@
+﻿Save
+Search for user
+Secret Scanning
+Secrets
+See
+Select
+Select a base branch above.
+Select a repository
+Select all
+Select an editor
+Select your editor in
+selectable path-text
+select-component no-options-found
+Selected commit file list
+Selecting lines is disabled when hiding whitespace changes.
+Server stack with cloud
+Service
+Shell
+Shell to use when loading environment
+Show a confirmation dialog before...
+Show check marks in the diff
+Show commit length warning
+Show commit progress
+Show Copilot model credit costs
+Show credit costs
+Show diff
+Show in Explorer
+Show in your File Manager
+Show Less Locations
+Show More locations
+Show status icons in the repository list
+Show whitespace changes?
+Show worktrees
+Showing changes from
+Showing changes from all commits
+side-by-side-diff cm-s-default
+Sign in
+Sign in to an account with a Copilot license to configure Copilot settings.
+Sign in to GitHub Enterprise
+Sign in to your GitHub Enterprise
+Sign in to your GitHub.com account to access your repositories.
+Sign in using your browser
+Sign into
+Sign out
+SignInToDotComWithBrowser
+SignInToEnterprise
+Single
+Size:
+Skip
+Skip this step
+small-button button-group-item
+small-button button-group-item arrow-menu
+small-button button-group-item resolve-arrow-menu
+Software
+Some checks haven't completed yet
+Some checks were not successful
+Some files were skipped by Copilot. Those need to be resolved manually.
+Sorry, I can't find any repository matching
+Sorry, I can't find that branch
+Sorry, I can't find that pull request!
+Sorry, I can't find that remote branch.
+Sorry, I can't find that repository
+Spaces and invalid characters have been replaced by hyphens.
+Split
+Squash
+Squash and
+Squash and merge
+Squash of
+squashing commits on
+Squashing into
+SSH Host
+SSH Key Passphrase
+SSH User Password
+Stand By
+Start
+Start tutorial
+Stash all changes
+stash and checkout
+Stash changes and continue
+Stash file list
+Stashed changes
+state.fullPath === fullPath ?
+StatsDatabase
+status status-
+Stop amending
+Submodule changes
+Successfully copied
+Successfully merged
+Successfully merged into
+Successfully rebased
+Successfully reordered
+Successfully squashed
+Suggested actions for this branch
+Summary
+Summary (required)
+Support details
+support@github.com
+Supported operating systems
+Swipe
+Switch branch
+switch branches
+Switch to manual
+Switch to pull request
+Switch to repository and pull request
+System
+t automatically merge.
+t be
+t been published
+t been pushed to the remote yet.
+t determine the last time an update check was performed. You
+t find the GitHub Copilot App on your machine. Experience
+t found and won
+Tab
+Tailor how Copilot behaves by using
+target branch
+Terminal window
+Terms and Conditions
+Terms of Service
+textarea:not(:disabled):not([tabindex="-1"])
+Thanks so much for all your hard work on GitHub Desktop
+The
+The "
+The authenticity of host '
+The branch name
+The command line tool has been installed at
+The commits from the selected branch will be added to the current branch via a merge commit.
+The commits from the selected branch will be rebased and added to the current branch.
+The commits in the selected branch will be combined into one commit in the current branch.
+The compared branch (
+The current branch (
+The current branch is already up to date with the selected branch.
+The currently checked out branch is
+The currently checked out branch. Pick this if you need to build on work done on this branch.
+The Desktop team would like to thank you for your contributions.
+The detected string is not a secret
+The diff is too large to be displayed by default.
+The diff is too large to be displayed.
+The directory
+The email in your global Git config (
+The exact name your provider expects (e.g.
+The file is empty
+The file is in conflict and must be resolved via the command line.
+The file was renamed and includes changes.
+The file was renamed but not changed
+The following files are over 100MB.
+The following files would be overwritten:
+The friendly name shown in the Copilot model picker.
+The Git repository
+The Git repository at
+the password for the user
+the remote
+The repositories use
+The repository
+The repository will be created at
+The repository will be removed from GitHub Desktop:
+The tag name cannot be longer than
+Theme
+theme-
+There are no changes.
+There are no steps to display for this check.
+There are uncommitted changes in this repository
+There is already a file with this name. Git can only clone to a folder.
+There will be
+These arguments are not valid.
+These changes will be unrecoverable from the
+These preferences will
+these workflows
+This action cannot be undone.
+This binary file has changed.
+This branch is tracking
+This branch may have an open pull request associated with it.
+This change can be committed to the parent repository.
+This commit has not been pushed to the remote repository
+This commit message
+This commit will be misattributed
+This directory appears to be a bare repository. Bare repositories are not currently supported.
+This directory contains a
+This directory contains a README.md file already. Checking
+This directory does not appear to be a Git repository.
+This directory does not appear to be a Git repository. Would you like to create a repository here instead?
+This email address is disallowed
+This file uses '
+This folder contains files. Git can only clone to empty folders.
+This is a submodule based on the repository
+This is an example link

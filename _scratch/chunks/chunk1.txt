@@ -1,0 +1,185 @@
+﻿A branch named
+a commit
+A force push will rewrite history on
+A new attempt of
+a new branch
+A repository must have a GitHub repository to add an upstream remote
+A repository must have a parent repository to add an upstream remote
+A tag named
+Able to merge.
+Abort
+About
+Accessibility
+Account
+Accounts
+Act on behalf of the secret's owner
+Add
+Add a local repository
+Add a repository to GitHub Desktop to start collaborating
+Add certificate
+Add co-authors
+Add custom provider
+Add GitHub Enterprise account
+Add local repository
+Add model
+Add repository
+Add Signed-off-by trailer
+add this repository
+Add worktree
+Added
+Additional Services
+Adjust the filters to see all
+Advanced
+AI credits
+AI credits per
+Alias
+All checks have failed
+All checks have passed
+All conflicted files have been resolved.
+All conflicts resolved
+All resolutions have been undone.
+Allow empty commit
+Allow me to expose this secret
+Allowing secrets risks exposure. Consider
+already exists
+already exists on the remote.
+Already installed it? Let us know where in
+Also move this repository to
+Always available in the toolbar for local repositories or
+Always available in the toolbar or
+Always available in the toolbar when there are remote changes or
+Always bring my changes to my new branch
+Always show worktree list
+Always stash and leave my changes on the current branch
+Always use Copilot for conflict resolution?
+Always use Copilot when conflicts are detected
+Amending
+An optimized version of GitHub Desktop is available for your
+An update has been downloaded and is ready to be installed.
+Anthropic
+Any models you have configured for it will no longer be available.
+API format
+API key
+App location
+Appearance
+appearance-section formatting-section
+Apple silicon
+Application menu
+Application Terms
+Applications
+AppMenu): Promise
+Archived
+Are you sure you want to
+Are you sure you want to abort this
+Are you sure you want to commit these conflicted files?
+Are you sure you want to continue connecting?
+Are you sure you want to delete the tag
+Are you sure you want to delete the worktree
+Are you sure you want to discard all
+Are you sure you want to discard all changes to:
+Are you sure you want to discard the selected changes to:
+Are you sure you want to discard these stashed changes?
+Are you sure you want to force push?
+Are you sure you want to remove the custom provider
+Are you sure you want to remove the repository "
+Arguments
+Arm64
+ArrowDown
+ArrowLeft
+ArrowRight
+ArrowUp
+AS IS
+Ask me where I want the changes to go
+at line
+At the end of the
+Atom
+Author
+author selectable
+Autocompletion of user and issues will be based on
+Auto-Update Services
+Avatar token missing
+Avatar tokens are only available for ghe.com
+Avatar URL already resolved or endpoint is missing
+avatar-more avatar
+AvatarStack
+AvatarStack-body
+AvatarStack--plus
+AvatarStack--small
+AvatarStack--three
+AvatarStack--two
+Azure
+Azure API version
+Background updates
+Backspace
+Base URL
+Base URL must be an https URL, or an http URL pointing at the local machine.
+base:
+Bearer token
+before creating your pull request?
+Beta Channel
+botAvatarCache.set(
+Branch filter
+Branch name
+Branches
+branches-list-content filter-list-group-header
+branches-list-item new-branch-drop
+branches-list-item-tooltip list-item-tooltip
+Bugfixes
+button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])
+button:not(:disabled):not([tabindex="-1"])
+By creating an account, you agree to the
+Bypass
+Bypass Commit hooks
+Bypass push detection
+Bypassed
+Cache Git hook environment variables
+Cached input
+Cancel
+Cancel generating commit details
+Cannot publish detached HEAD
+Cannot resolve while operation is being aborted
+Can't automatically merge.
+Can't find "
+Change
+Change resolution choice
+Changes
+Changes can be restored by retrieving them from the
+changes-interstitial submodule-diff
+changes-list-container file-list filtered-changes-list
+Chat completions (default)
+Check for Updates
+Check out the
+Check run steps incoming!
+Check runs incoming!
+Check&nbsp;again.
+Checking for ability to
+Checking for ability to merge automatically...
+Checking mergeability&hellip;
+Checking out a commit
+Checkout
+checkout branch from list
+Checkout commit
+Checkout commit?
+checkout pull request from list
+Checks Summary
+Cherry-pick
+Cherry-pick to new branch
+Cherry-pick undone. Successfully removed the
+Cherry-picking from
+cherry-picking onto
+Choose a base branch
+Choose a branch to merge into
+Choose a model
+Choose a new alias for the repository "
+Choose a resolution
+Choose a resolution for this file
+Choose an account
+Choose GitHub Copilot
+Choose the GitHub Copilot application (.app).
+Choose the GitHub Copilot executable (github.exe).
+ci-check-run-list check-run-rerun-list
+className=
+Clear
+Clear filters
+Clone
+Clone a repository

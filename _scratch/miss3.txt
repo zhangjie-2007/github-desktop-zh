@@ -1,0 +1,1282 @@
+&[gitHubRepositoryID+login], gitHubRepositoryID	lib/databases/github-user-database.ts
+&nbsp;	ui/autocompletion/autocompleting-text-input.tsx,ui/autocompletion/issues-autocompletion-provider.tsx
+&nbsp;&nbsp;	ui/diff/side-by-side-diff-row.tsx
+&nbsp;as determined by your	ui/create-branch/create-branch-dialog.tsx
+A branch with that name already exists.	lib/git/core.ts
+A directory exception must refer to a single directory.	lib/git/config.ts
+A directory exception requires an absolute path.	lib/git/config.ts
+A lock file already exists in the repository, which blocks this operation from completing.	lib/git/core.ts
+A ref cannot be longer than 255 characters.	lib/git/core.ts
+A submodule points to a commit which does not exist.	lib/git/core.ts
+A submodule points to a location which does not exist.	lib/git/core.ts
+A tag with that name already exists	lib/git/core.ts
+A totally awesome fix that fixes something - #123. Thanks!	ui/lib/test-ui-components/test-ui-components.ts
+Aborted	lib/git/rebase.ts
+Action required	lib/ci-checks/ci-checks.ts
+action_required	lib/api.ts,lib/ci-checks/ci-checks.ts
+Add an Existing Repository from your local drive…	ui/no-repositories/no-repositories-view.tsx
+Add an Existing Repository from your Local Drive…	ui/no-repositories/no-repositories-view.tsx
+Add Co-Authors	ui/changes/commit-message.tsx
+Add Custom Provider	ui/copilot/edit-byok-provider-dialog.tsx
+Add existing repository…	ui/repositories-list/repositories-list.tsx
+Add Existing Repository…	ui/repositories-list/repositories-list.tsx
+Add Local Repository	ui/add-repository/add-existing-repository.tsx
+Add Model	ui/copilot/edit-byok-model-dialog.tsx
+Add model…	ui/copilot/edit-byok-provider-dialog.tsx
+Add Model…	ui/copilot/edit-byok-provider-dialog.tsx
+Add provider…	ui/preferences/copilot-custom-providers-dialog.tsx
+Add Provider…	ui/preferences/copilot-custom-providers-dialog.tsx
+Add Repository	ui/tutorial/done.tsx,ui/add-repository/add-existing-repository.tsx
+Add Signed-off-by Trailer	ui/changes/commit-message.tsx
+Add Worktree	ui/worktrees/add-worktree-dialog.tsx
+Adobe ColdFusion Builder	lib/editors/win32.ts
+Adobe ColdFusion Builder 2016	lib/editors/win32.ts
+Adobe ColdFusion Builder 3_is1	lib/editors/win32.ts
+Adobe Systems Incorporated	lib/editors/win32.ts
+Ahead	lib/app-state.ts
+AI credits preset	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Alacritty	lib/shells/darwin.ts,lib/shells/win32.ts
+all_proxy	lib/git/environment.ts
+ALL_PROXY	lib/git/environment.ts
+Allow Empty Commit	ui/changes/commit-message.tsx
+AlreadyUpToDate	lib/git/rebase.ts
+Alt	lib/menu-item.ts,ui/app.tsx
+Always Use Copilot for Conflict Resolution?	ui/multi-commit-operation/dialog/copilot-conflict-resolution-always-nudge.tsx
+Always Use Copilot When Conflicts Are Detected	ui/preferences/copilot-user-settings.tsx
+amazonaws.com	lib/api.ts
+Amend	lib/stores/app-store.ts,ui/changes/commit-message.tsx
+Amend commit…	ui/history/commit-list.tsx
+Amend Commit…	ui/history/commit-list.tsx
+Analyzing conflicts…	ui/multi-commit-operation/dialog/copilot-conflicts-loading-dialog.tsx
+Android Studio	lib/editors/win32.ts
+Anthropic	ui/preferences/copilot-custom-providers-dialog.tsx,ui/copilot/edit-byok-provider-dialog.tsx
+Anysphere	lib/editors/win32.ts
+API Format	ui/copilot/edit-byok-provider-dialog.tsx
+api.	lib/api.ts,lib/stores/accounts-store.ts
+api.github.com	lib/endpoint-capabilities.ts,lib/api.ts
+Appcelerator	lib/editors/win32.ts
+appearance-section formatting-section	ui/preferences/appearance.tsx
+application/vnd.github.v3+json, application/json	lib/http.ts
+AppMenu): Promise	ui/dispatcher/dispatcher.ts
+Approved	lib/stats/stats-store.ts
+APPROVED	lib/api.ts,ui/notifications/pull-request-review-helpers.ts
+AppStore: Copilot conflict resolution aborted by user	lib/stores/app-store.ts
+AppStore: Copilot conflict resolution failed	lib/stores/app-store.ts
+AppStore: Copilot conflict resolution flow failed	lib/stores/app-store.ts
+AppStore: Failed to fetch Copilot models after account update	lib/stores/app-store.ts
+AppStore: Failed to fetch Copilot quota snapshots after account update	lib/stores/app-store.ts
+AppStore: failed to read conflict-side PRs from local cache	lib/stores/app-store.ts
+AppStore: resolveConflictsWithCopilot called with no active conflict state	lib/stores/app-store.ts
+AppStore: resolveConflictsWithCopilot called with no conflicted files	lib/stores/app-store.ts
+Aptana Studio	lib/editors/win32.ts
+Aptana Studio 3	lib/editors/win32.ts
+Arm64	ui/banners/update-available.tsx
+array.push(	lib/menu-update.ts
+ArrowDown	ui/lib/list/section-list.tsx,ui/lib/section-filter-list.tsx
+ArrowLeft	ui/lib/author-input/author-input.tsx,ui/tab-bar-item.tsx
+ArrowRight	ui/lib/author-input/author-input.tsx,ui/tab-bar-item.tsx
+ArrowUp	ui/lib/list/section-list.tsx,ui/lib/section-filter-list.tsx
+ASKPASS	lib/trampoline/trampoline-command.ts
+assistant.message	lib/stores/copilot-store.ts
+assistant.message_delta	lib/stores/copilot-store.ts
+assistant.reasoning_delta	lib/stores/copilot-store.ts
+Atom	ui/tutorial/tutorial-panel.tsx
+Authentication	lib/stores/sign-in-store.ts,ui/copilot/edit-byok-provider-dialog.tsx
+Authentication failed: user cancelled authentication	lib/trampoline/trampoline-environment.ts
+Authorization	lib/http.ts
+Auto	lib/copilot/conflict-resolution-model.ts
+Avatar URL	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+avatar_token	lib/api.ts
+avatar-more avatar	ui/lib/avatar-stack.tsx
+AvatarStack	ui/lib/avatar-stack.tsx
+AvatarStack--plus	ui/lib/avatar-stack.tsx
+AvatarStack--small	ui/lib/avatar-stack.tsx
+AvatarStack--three	ui/lib/avatar-stack.tsx
+AvatarStack--two	ui/lib/avatar-stack.tsx
+AvatarStack-body	ui/lib/avatar-stack.tsx
+Azure	ui/preferences/copilot-custom-providers-dialog.tsx,ui/copilot/edit-byok-provider-dialog.tsx
+Azure API Version	ui/copilot/edit-byok-provider-dialog.tsx
+Back	ui/test-notifications/test-notifications.tsx
+background task environment, skipping prompt	lib/trampoline/trampoline-credential-helper.ts
+Bad revision.	lib/git/core.ts
+Base (common ancestor):	lib/copilot-conflict-context.ts
+base repository can't be null	lib/stores/pull-request-store.ts
+Behind	lib/app-state.ts
+billing_not_configured	lib/copilot-error.ts
+Binary files	lib/diff-parser.ts
+binaryFilePaths: ReadonlyArray	lib/git/status.ts
+bitbucket.org	lib/api.ts
+boolean | Promise	lib/api.ts
+Boomtown!	ui/lib/test-ui-components/test-ui-components.ts
+botAvatarCache.set(	ui/lib/avatar.tsx
+Brackets	lib/editors/win32.ts
+brackets.io	lib/editors/win32.ts
+Branch (optional)	ui/cli-action/test-cli-action-dialog.tsx
+Branch fast-forwarding failed	lib/stores/app-store.ts
+Branch Name	ui/worktrees/add-worktree-dialog.tsx
+branch_name_pattern	lib/api.ts
+branches-list-content filter-list-group-header	ui/branches/branch-list.tsx
+branches-list-item new-branch-drop	ui/branches/branches-container.tsx
+branches-list-item-tooltip list-item-tooltip	ui/branches/branch-list.tsx
+build conflict context	lib/stores/app-store.ts
+button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])	ui/dialog/dialog.tsx
+button:not(:disabled):not([tabindex="-1"])	ui/dialog/dialog.tsx
+byok:	lib/copilot/byok.ts
+Bypass Commit Hooks	ui/changes/commit-message.tsx
+Bypass Push Detection	ui/secret-scanning/bypass-push-protection-dialog.tsx
+can't convert to Repository without id	lib/stores/repositories-store.ts
+Canceled	lib/ci-checks/ci-checks.ts
+Cannot create Copilot client: Account has no token	lib/stores/copilot-store.ts
+Cannot create Copilot client: Runtime entry point not found	lib/stores/copilot-store.ts
+Cannot pull from a remote whose name starts with '-'.	lib/git/pull.ts
+Cannot start a background fetcher that has been stopped.	lib/stores/helpers/background-fetcher.ts
+Cannot use a symbolic link as the root .gitignore file	lib/git/gitignore.ts
+capacity)	lib/git/push-terminal-chunk.ts
+CHANGES_REQUESTED	lib/api.ts,ui/notifications/pull-request-review-helpers.ts
+changes-interstitial submodule-diff	ui/diff/submodule-diff.tsx
+changes-list-container file-list filtered-changes-list	ui/changes/filter-changes-list.tsx
+ChangesRequested	lib/stats/stats-store.ts
+Chat messages	ui/preferences/snapshot-card.tsx,ui/preferences/test-copilot-snapshot-card-dialog.tsx
+check was	lib/stores/notifications-store.ts,lib/stores/notifications-debug-store.ts
+Checking Copilot access…	ui/preferences/copilot.tsx
+Checking for ability to rebase automatically…	ui/multi-commit-operation/choose-branch/rebase-choose-branch-dialog.tsx
+Checking for updates…	ui/about/about.tsx
+Checking out	lib/progress/lfs.ts,lib/stores/app-store.ts
+Checking out files	lib/progress/checkout.ts,lib/progress/clone.ts
+Checkout Commit	ui/history/commit-list.tsx
+Checkout Commit?	ui/checkout/confirm-checkout-commit.tsx
+Checkout in new worktree…	ui/branches/branch-list-item-context-menu.tsx,ui/branches/pull-request-list-item-context-menu.tsx
+Checkout in New Worktree…	ui/branches/branch-list-item-context-menu.tsx,ui/branches/pull-request-list-item-context-menu.tsx
+checks were	lib/stores/notifications-store.ts,lib/stores/notifications-debug-store.ts
+checks_state_summary	lib/markdown-filters/commit-mention-link-filter.ts
+CHERRY_PICK_HEAD	lib/git/cherry-pick.ts
+Cherry-pick commit…	ui/history/commit-list.tsx
+Cherry-pick Commit…	ui/history/commit-list.tsx
+Cherry-pick to New Branch	ui/multi-commit-operation/choose-branch/choose-target-branch.tsx,ui/multi-commit-operation/cherry-pick.tsx
+cherry-picked commit	lib/stores/app-store.ts
+child_process	lib/exec-file.ts,lib/hooks/hooks-proxy.ts
+Choose…	ui/preferences/custom-integration-form.tsx,ui/preferences/integrations.tsx
+ci-check-run-list check-run-rerun-list	ui/check-runs/ci-check-run-rerun-dialog.tsx
+className=	ui/clone-repository/cloneable-repository-filter-list.tsx
+Client issue: unsupported API version.	lib/api.ts
+CLion	lib/editors/win32.ts
+Clone a Repository	ui/clone-repository/clone-repository.tsx
+Clone a repository from the Internet…	ui/no-repositories/no-repositories-view.tsx
+Clone a Repository from the Internet…	ui/no-repositories/no-repositories-view.tsx
+Clone Repository…	ui/repositories-list/repositories-list.tsx
+Clone URL	ui/cli-action/test-cli-action-dialog.tsx
+clone-repository-list-content clone-repository-list-group-header	ui/clone-repository/cloneable-repository-filter-list.tsx
+CloneRepository: Path validation failed. Error:	ui/clone-repository/clone-repository.tsx
+Cloning into	lib/git/submodule.ts
+Cloning into this directory is not allowed.	lib/git/clone.ts
+Co-Authored-By	ui/changes/commit-message.tsx
+co.zeit.hyper	lib/shells/darwin.ts
+CODE	lib/markdown-filters/issue-mention-filter.ts,lib/markdown-filters/emoji-filter.ts
+Code completions	ui/preferences/snapshot-card.tsx,ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Code scanning results	lib/ci-checks/ci-checks.ts
+Codeium	lib/editors/win32.ts
+ColdFusion Builder	lib/editors/win32.ts
+collaborator,organization_member	lib/api.ts
+Collapse Expanded Lines	ui/diff/side-by-side-diff.tsx
+com.apple.application	lib/is-application-bundle.ts
+com.apple.application-bundle	lib/is-application-bundle.ts
+com.apple.Terminal	lib/shells/darwin.ts
+com.github.wez.wezterm	lib/shells/darwin.ts
+com.googlecode.iterm2	lib/shells/darwin.ts
+com.microsoft.powershell	lib/shells/darwin.ts
+com.mitchellh.ghostty	lib/shells/darwin.ts
+Command Line Tool Installed	ui/cli-installed/cli-installed.tsx
+Command Prompt	lib/hooks/config.ts,lib/shells/win32.ts
+Commented	lib/stats/stats-store.ts
+COMMENTED	lib/api.ts,ui/notifications/pull-request-review-helpers.ts
+Comments:	ui/test-notifications/test-notifications.tsx
+Commit Anyway	ui/changes/oversized-files-warning.tsx,ui/unknown-authors/unknown-authors-dialog.tsx
+Commit Filtered Changes?	ui/changes/confirm-commit-filtered-changes-dialog.tsx
+Commit Message Generation	ui/preferences/copilot-user-settings.tsx
+Commit message generation was cancelled	lib/stores/copilot-store.ts
+Commit Message Rule Failures	ui/changes/commit-message.tsx
+Commit Reachability	ui/history/unreachable-commits-dialog.tsx
+Commit to author mismatch	lib/git/log.ts
+commit_author_email_pattern	lib/api.ts
+commit_message_pattern	lib/api.ts
+commit-list-item-tooltip list-item-tooltip	ui/history/commit-list.tsx
+commit-message-failure-hint button-component	ui/changes/commit-message.tsx
+commit.gpgsign	lib/helpers/repo-rules.ts
+CommitMessageGenerationCancelledError	lib/stores/copilot-store.ts
+committer_email_pattern	lib/api.ts
+Compare	lib/app-state.ts
+CompletedWithoutError	lib/git/rebase.ts,lib/git/cherry-pick.ts
+Compressing objects	lib/progress/push.ts
+Configure custom editor…	ui/preferences/integrations.tsx,ui/open-with-external-editor/open-with-external-editor.tsx
+Configure Custom Editor…	ui/preferences/integrations.tsx,ui/open-with-external-editor/open-with-external-editor.tsx
+Configure custom providers…	ui/lib/copilot-model-picker.tsx
+Configure custom shell…	ui/preferences/integrations.tsx
+Configure Custom Shell…	ui/preferences/integrations.tsx
+Configure…	ui/preferences/snapshot-card.tsx
+ConfigureGit	ui/welcome/welcome.tsx
+Confirm Discard All Changes	ui/discard-changes/discard-changes-dialog.tsx
+Confirm Discard changes	ui/discard-changes/discard-selection-dialog.tsx
+Confirm Discard Changes	ui/discard-changes/discard-changes-dialog.tsx
+Conflict contains lines too long to resolve automatically	lib/copilot-conflict-context.ts
+Conflict region too large to resolve automatically	lib/copilot-conflict-context.ts
+Conflict Resolution	ui/preferences/copilot-user-settings.tsx
+Conflict resolution failed	lib/stores/copilot-store.ts
+Conflicted	lib/status.ts
+ConflictsEncountered	lib/git/rebase.ts,lib/git/cherry-pick.ts
+Content-Length	lib/http.ts
+content-pane repository-list	ui/no-repositories/no-repositories-view.tsx
+Content-Type	lib/http.ts,lib/stats/stats-store.ts
+Context after:	lib/copilot-conflict-context.ts
+Context before:	lib/copilot-conflict-context.ts
+Continue in Browser	ui/workflow-push-rejected/workflow-push-rejected.tsx,ui/saml-reauth-required/saml-reauth-required.tsx
+Continue With Browser	ui/sign-in/sign-in.tsx
+continueRebase(repository, workingDirectory.files, manualResolutions,	lib/stores/app-store.ts
+Copied	lib/status.ts
+Copilot	ui/preferences/preferences.tsx,ui/multi-commit-operation/dialog/copilot-resolution-helpers.ts
+Copilot billing issue	lib/copilot-error.ts
+Copilot billing not configured	lib/copilot-error.ts
+Copilot conflict resolution aborted	lib/stores/copilot-store.ts
+Copilot conflict resolution timed out	lib/stores/copilot-store.ts
+Copilot returned an invalid commit message payload: "description" must be a string when provided	lib/copilot-commit-message.ts
+Copilot returned an invalid commit message payload: "title" must be a non-empty string	lib/copilot-commit-message.ts
+Copilot returned an invalid commit message payload: expected an object	lib/copilot-commit-message.ts
+Copilot returned an invalid conflict resolution payload: "resolutions" must be an array	lib/copilot-conflict-resolution.ts
+Copilot returned an invalid conflict resolution payload: "resolutions" must not be empty	lib/copilot-conflict-resolution.ts
+Copilot returned an invalid conflict resolution payload: expected an object	lib/copilot-conflict-resolution.ts
+Copilot returned duplicate file paths in resolutions	lib/copilot-conflict-resolution.ts
+Copilot returned invalid JSON for commit message generation	lib/copilot-commit-message.ts
+Copilot returned invalid JSON for conflict resolution generation	lib/copilot-conflict-resolution.ts
+Copilot Settings	ui/preferences/copilot-settings-dialog.tsx
+copilot_iap_max_sku	lib/api.ts
+COPILOT_INDIVIDUAL	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+copilot-byok-fieldset copilot-byok-models	ui/copilot/edit-byok-provider-dialog.tsx
+copilot-changes-diff-subheader expanded	ui/multi-commit-operation/dialog/copilot-conflicts-changes.tsx
+copilot-conflicts-file-heading copilot-conflicts-skipped-heading	ui/multi-commit-operation/dialog/copilot-conflicts-dialog.tsx
+copilot-file-explanation resolved-text	ui/multi-commit-operation/dialog/copilot-conflicts-dialog.tsx
+copilot-model-list-group filter-list-group-header	ui/lib/copilot-model-picker.tsx
+copilot-section copilot-account-snapshot-groups	ui/preferences/copilot.tsx
+copilot:	lib/copilot/byok.ts
+CopilotAppError	lib/copilot-app/index.ts
+CopilotConflictResolutionAbortError	lib/stores/copilot-store.ts
+CopilotConflictResolutionError	lib/copilot-conflict-resolution-error.ts
+CopilotError	lib/copilot-error.ts
+CopilotStore: Conflict resolution parse/validation failed, retrying	lib/stores/copilot-store.ts
+CopilotStore: Error stopping client	lib/stores/copilot-store.ts
+CopilotStore: Failed to fetch and cache models	lib/stores/copilot-store.ts
+CopilotStore: Failed to fetch and cache quota snapshots	lib/stores/copilot-store.ts
+CopilotStore: Failed to generate commit message	lib/stores/copilot-store.ts
+CopilotStore: Failed to resolve conflicts after retry	lib/stores/copilot-store.ts
+copilotStore.resolveConflicts	lib/stores/app-store.ts
+CopilotValidationError	lib/copilot-conflict-resolution.ts
+Copy Branch Name	ui/branches/branch-list-item-context-menu.tsx
+Copy File Path	ui/lib/context-menu.ts
+Copy Paths	ui/lib/context-menu.ts
+Copy Relative File Path	ui/lib/context-menu.ts
+Copy Relative Paths	ui/lib/context-menu.ts
+Copy Repo Name	ui/repositories-list/repository-list-item-context-menu.ts
+Copy Repo Path	ui/repositories-list/repository-list-item-context-menu.ts
+Copy Tag	ui/history/commit-list.tsx
+Copy Tags	ui/history/commit-list.tsx
+Copy Worktree Name	ui/worktrees/worktree-list-item-context-menu.ts
+Copy Worktree Path	ui/worktrees/worktree-list-item-context-menu.ts
+core.autocrlf	lib/git/gitignore.ts
+core.hooksPath	lib/hooks/get-repo-hooks.ts
+core.safecrlf	lib/git/gitignore.ts
+Could not delete the branch. It was probably already deleted.	lib/git/core.ts
+Could not determine main worktree repository type	lib/stores/app-store.ts
+Could not determine repository type	lib/stores/app-store.ts,ui/app.tsx
+could not find end marker in shell output	lib/hooks/get-shell-env.ts
+Could not find main worktree	lib/stores/app-store.ts
+could not find start marker in shell output	lib/hooks/get-shell-env.ts
+Could not get checks for PR	lib/stores/notifications-debug-store.ts
+Could not hand off to GitHub Copilot	lib/stores/app-store.ts
+Could not list worktrees from the main worktree	lib/stores/app-store.ts
+Could not open global Git config for editing	lib/stores/app-store.ts
+Could not resolve the main worktree path	lib/stores/app-store.ts
+Could not retrieve passphrase for SSH key:	lib/ssh/ssh-key-passphrase.ts,lib/ssh/ssh-user-password.ts
+Could not store passphrase for SSH key:	lib/ssh/ssh-key-passphrase.ts
+Couldn't read 'pull.ff' config	lib/git/pull.ts
+Create a Branch	ui/create-branch/create-branch-dialog.tsx
+Create a New Repository	ui/add-repository/create-repository.tsx
+Create a New Repository on your local drive…	ui/no-repositories/no-repositories-view.tsx
+Create a New Repository on your Local Drive…	ui/no-repositories/no-repositories-view.tsx
+Create a Tag	ui/create-tag/create-tag-dialog.tsx
+Create a tutorial repository…	ui/no-repositories/no-repositories-view.tsx
+Create a Tutorial Repository…	ui/no-repositories/no-repositories-view.tsx
+Create branch	ui/create-branch/create-branch-dialog.tsx
+Create Branch	ui/create-branch/create-branch-dialog.tsx
+Create Branch and Cherry-pick	ui/multi-commit-operation/cherry-pick.tsx
+Create branch based on…	ui/create-branch/create-branch-dialog.tsx
+Create Branch from Commit	ui/history/commit-list.tsx
+Create commit	ui/changes/commit-message.tsx
+Create New Branch	ui/branches/no-branches.tsx
+Create new repository…	ui/repositories-list/repositories-list.tsx
+Create New Repository…	ui/repositories-list/repositories-list.tsx
+Create Repository	ui/tutorial/done.tsx,ui/add-repository/create-repository.tsx
+Create tag	ui/create-tag/create-tag-dialog.tsx
+Create Tag	ui/create-tag/create-tag-dialog.tsx
+Create Tag…	ui/history/commit-list.tsx
+Create Without Pushing	ui/branches/push-branch-commits.tsx
+Create Worktree	ui/worktrees/add-worktree-dialog.tsx
+credential.helper=	lib/git/credential.ts
+CREDENTIALHELPER	lib/trampoline/trampoline-command.ts
+Ctrl	lib/menu-item.ts,ui/repositories-list/repositories-list.tsx
+current branch	lib/stores/app-store.ts,ui/multi-commit-operation/dialog/copilot-conflicts-dialog.tsx
+Current Branch	ui/toolbar/branch-dropdown.tsx
+Current Repository	ui/app.tsx
+Current Worktree	ui/toolbar/worktree-dropdown.tsx
+Cursor	lib/editors/win32.ts
+Cursor (User)	lib/editors/win32.ts
+Cursor AI, Inc.	lib/editors/win32.ts
+Custom Providers	ui/preferences/copilot-custom-providers-dialog.tsx
+Custom Shell	lib/shells/shared.ts
+Cygwin	lib/shells/win32.ts
+Date Format	ui/preferences/appearance.tsx
+Deepin Terminal	lib/shells/linux.ts
+Default branch	ui/branches/branch-list.tsx,ui/preferences/git.tsx
+Default Branch	ui/branches/branch-list.tsx
+DELETE	lib/http.ts,lib/api.ts
+Delete Branch	ui/delete-branch/delete-branch-dialog.tsx,ui/delete-branch/delete-pull-request-dialog.tsx
+Delete Remote Branch	ui/delete-branch/delete-remote-branch-dialog.tsx
+Delete Tag	ui/delete-tag/delete-tag-dialog.tsx
+Delete tag…	ui/history/commit-list.tsx
+Delete Worktree	ui/worktrees/delete-worktree-dialog.tsx
+Delete Worktree Failed	ui/worktrees/delete-worktree-failed-dialog.tsx
+delete-branch-confirmation-message delete-branch-confirmation-message-remote	ui/delete-branch/delete-branch-dialog.tsx
+Description:	lib/copilot-conflict-context.ts
+desktop_copilot_generate_commit_message	lib/feature-flag.ts
+desktop_enable_copilot_sdk_commit_message_generation	lib/feature-flag.ts
+DESKTOP_GITHUB_DOTCOM_ADDITIONAL_COOKIES	lib/api.ts
+DESKTOP_GITHUB_DOTCOM_API_ENDPOINT	lib/api.ts
+DESKTOP_GITHUB_DOTCOM_HTML_URL	lib/api.ts
+DESKTOP_TRAMPOLINE_IDENTIFIER	lib/trampoline/trampoline-command-parser.ts
+DESKTOP_TRAMPOLINE_TOKEN	lib/trampoline/trampoline-command-parser.ts
+desktop-git-hooks-	lib/hooks/with-hooks-env.ts
+dev.azure.com	lib/api.ts
+dev.warp.Warp-Stable	lib/shells/darwin.ts
+dialog-banner dialog-error	ui/dialog/error.tsx
+dialog-banner dialog-success	ui/dialog/success.tsx
+DialogSwitchToPullRequestCount	lib/stats/stats-store.ts
+Diff is too large to render	lib/git/diff.ts
+Diff Tab Size	ui/preferences/appearance.tsx
+DIRECT	lib/parse-pac-string.ts,lib/resolve-git-proxy.ts
+Disable Commit Spellcheck	ui/changes/commit-message.tsx
+Discard All Changes	ui/discard-changes/discard-changes-dialog.tsx
+Discard All Changes…	ui/changes/filter-changes-list.tsx
+Discard changes	ui/discard-changes/discard-changes-dialog.tsx,ui/discard-changes/discard-selection-dialog.tsx
+Discard Changes	ui/discard-changes/discard-changes-dialog.tsx,ui/discard-changes/discard-selection-dialog.tsx
+Discard Stash?	ui/stashing/confirm-discard-stash.tsx
+discard-changes-confirmation-file-list discard-changes-confirmation-message	ui/discard-changes/discard-changes-dialog.tsx
+Discarded Changes Will Be Unrecoverable	ui/discard-changes/discard-changes-retry-dialog.tsx
+DISMISSED	lib/api.ts
+Dispatch	ui/cli-action/test-cli-action-dialog.tsx
+Dispatch CLI Action	ui/cli-action/test-cli-action-dialog.tsx
+dispatcher.showPopup(	ui/lib/test-ui-components/test-ui-components.ts
+Display Name	ui/copilot/edit-byok-model-dialog.tsx
+DisplayIcon	lib/editors/win32.ts,lib/copilot-app/win32.ts
+DisplayName	lib/editors/win32.ts,lib/copilot-app/win32.ts
+div[role=row]	ui/diff/side-by-side-diff.tsx
+div[role=row]:first-child	ui/diff/side-by-side-diff.tsx
+div[role=row]:last-child	ui/diff/side-by-side-diff.tsx
+DOMContentLoaded	ui/lib/sandboxed-markdown.tsx
+Done	lib/git/tag.ts,ui/preferences/copilot-settings-dialog.tsx
+Done!	ui/test-notifications/test-notifications.tsx
+done.	lib/progress/git.ts
+Downloading	lib/progress/lfs.ts
+Downloading update…	ui/about/about.tsx
+e.email).includes(commit.author.email))	lib/stores/notifications-store.ts
+EACCES	lib/editors/launch.ts,ui/add-repository/create-repository.tsx
+ecs-description-text selectable	ui/history/expandable-commit-summary.tsx
+ecs-meta-item authors	ui/history/expandable-commit-summary.tsx
+ecs-meta-item commit-ref	ui/history/expandable-commit-summary.tsx
+ecs-meta-item lines-added-deleted	ui/history/expandable-commit-summary.tsx
+ecs-meta-item tags selectable	ui/history/expandable-commit-summary.tsx
+Edit Custom Provider	ui/copilot/edit-byok-provider-dialog.tsx
+Edit Model	ui/copilot/edit-byok-model-dialog.tsx
+EEXIST	lib/copilot-in-memory-session-fs-provider.ts
+EiB	ui/lib/bytes.ts
+EINVAL	lib/copilot-in-memory-session-fs-provider.ts
+EISDIR	lib/copilot-in-memory-session-fs-provider.ts
+elem.clientWidth)	ui/lib/rich-text.tsx
+Elementary Terminal	lib/shells/linux.ts
+ELOOP	lib/git/gitignore.ts
+en-US	lib/format-date.ts,lib/format-relative.ts
+Enable Commit Spellcheck	ui/changes/commit-message.tsx
+Enabled	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+encodeModelKey(	ui/lib/copilot-model-picker.tsx
+end with	lib/helpers/repo-rules.ts
+Endpoint	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+EndpointEntry	lib/stores/sign-in-store.ts
+ends_with	lib/api.ts
+ENOENT	lib/copilot-in-memory-session-fs-provider.ts,lib/custom-integration.ts
+ENOTDIR	ui/clone-repository/clone-repository.tsx
+Enter passphrase for key	lib/trampoline/trampoline-askpass-handler.ts
+Enterprise	ui/changes/commit-message-avatar.tsx,ui/lib/configure-git-user.tsx
+Entitlement requests	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+ERR_CHILD_PROCESS_STDIO_MAXBUFFER	lib/git/core.ts
+Error	lib/git/rebase.ts,lib/git/cherry-pick.ts
+Error creating trampoline command:	lib/trampoline/trampoline-command-parser.ts
+Error fetching poll interval	lib/stores/helpers/background-fetcher.ts
+Error loading DDS image:	ui/diff/image-diffs/image-container.tsx
+Error migrating existing GUID	lib/get-renderer-guid.ts
+Error processing trampoline command	lib/trampoline/trampoline-server.ts
+Error processing trampoline data	lib/trampoline/trampoline-server.ts
+Error reporting stats:	lib/stats/stats-store.ts
+Error writing LFS progress file	lib/progress/from-process.ts
+error:	ui/lib/parse-files-to-be-overwritten.ts
+Esc	ui/dropdown-select-button.tsx
+Escape	ui/lib/tooltip.tsx,ui/lib/text-box.tsx
+Exclude Selected Files	ui/changes/filter-changes-list.tsx
+exec(args, path,	lib/git/core.ts
+exec(args, path).then((	lib/hooks/get-repo-hooks.ts
+execFileAsync(systemGitPath, ['--exec-path'],	lib/hooks/hooks-proxy.ts
+existing-repository-path-error path-is-subfolder-of-repository	ui/add-repository/create-repository.tsx
+existing-repository-path-error repo-sanitized-name-warning	ui/add-repository/create-repository.tsx
+ExistingAccountWarning	lib/stores/sign-in-store.ts
+Exit Tutorial	ui/tutorial/tutorial-panel.tsx,ui/tutorial/confirm-exit-tutorial.tsx
+Expand Whole File	ui/diff/side-by-side-diff.tsx
+Expected hunk header but reached end of diff	lib/diff-parser.ts
+Expected newline	lib/git/git-delimiter-parser.ts
+Expected unified diff line but reached end of diff	lib/diff-parser.ts
+extends AutocompletingTextInput	ui/autocompletion/autocompletion-provider.ts
+extends React.Component	ui/lib/tooltip.tsx,ui/lib/section-filter-list.tsx
+External Editor	ui/preferences/integrations.tsx
+Extra high	lib/stores/copilot-store.ts
+F10	ui/app.tsx
+F11	ui/window/full-screen-info.tsx
+Failed	lib/ci-checks/ci-checks.ts,ui/repository-rules/repo-rules-failure-list.tsx
+Failed calculating ahead/behind status	lib/stores/ahead-behind-store.ts
+Failed discarding changes	lib/stores/app-store.ts
+Failed moving repository to trash	lib/stores/app-store.ts
+Failed refreshing commit status	lib/stores/commit-status-store.ts
+Failed resolving current editor at startup	lib/stores/app-store.ts
+Failed resolving Git proxy	lib/git/environment.ts
+Failed retrieving authenticated user	lib/stores/sign-in-store.ts
+Failed to create system notification	lib/notifications/show-notification.ts
+Failed to find system git in PATH	lib/hooks/hooks-proxy.ts
+Failed to parse renamed or copied entry, could not parse old path	lib/status-parser.ts
+Failed to read system notification permission	lib/notifications/notification-permission.ts
+Failed to refresh worktrees	lib/stores/app-store.ts
+Failed to restore commit and co-authors, falling back	lib/stores/git-store.ts
+Failed to retrieve bundle ID:	lib/custom-integration.ts
+Failed to show system notification	lib/notifications/show-notification.ts
+Failed to validate custom integration:	lib/custom-integration.ts
+Failed updating process environment from shell	lib/shell.ts
+Failed updating remote HEAD	lib/stores/git-store.ts,lib/stores/app-store.ts
+FailedToStartPullRequest	lib/helpers/non-fatal-exception.ts,ui/app.tsx
+Fake account	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+false_positive	ui/secret-scanning/bypass-push-protection-dialog.tsx
+Fast-forwarding branches	lib/stores/app-store.ts
+fatal: your current branch '.*' does not have any commits yet	lib/git/reflog.ts
+FETCH_HEAD	lib/stores/git-store.ts
+File → Options → Copilot	ui/multi-commit-operation/dialog/copilot-conflict-resolution-always-nudge.tsx
+File could not be read	lib/copilot-conflict-context.ts
+File Does Not Exist on Disk	ui/history/selected-commits.tsx,ui/open-pull-request/pull-request-files-changed.tsx
+File path could not be resolved safely	lib/copilot-conflict-context.ts
+File path is outside the repository	lib/copilot-conflict-context.ts
+File too large to resolve automatically	lib/copilot-conflict-context.ts
+Files Too Large	ui/changes/oversized-files-warning.tsx
+filteredItems.size)	ui/changes/filter-changes-logic.ts
+Filtering content	lib/progress/from-process.ts
+Finalizing tutorial repository	lib/stores/helpers/create-tutorial-repository.ts
+Fleet	lib/editors/win32.ts
+Fluent Terminal	lib/shells/win32.ts
+Fork Behavior	ui/repository-settings/repository-settings.tsx
+Fork This Repository	ui/forks/create-fork-dialog.tsx
+formatNumber(value,	ui/preferences/snapshot-card.tsx
+gather commit context	lib/stores/app-store.ts
+gather conflict labels	lib/stores/app-store.ts
+Gathering context…	ui/multi-commit-operation/dialog/copilot-conflicts-loading-dialog.tsx
+Generate Commit Message with Copilot	ui/changes/commit-message.tsx
+generate-commit-message-override-warning-body generate-commit-message-override-warning-tip	ui/generate-commit-message/generate-commit-message-override-warning.tsx
+Generating commit details…	ui/changes/commit-message.tsx
+GET	lib/source-map-support.ts,lib/http.ts
+getCost(model)	lib/stores/copilot-store.ts
+getHunkKeyIndex(key)	ui/diff/side-by-side-diff.tsx
+gh-	lib/pull-request-refs.ts
+ghe.com	lib/trampoline/trampoline-credential-helper.ts
+Ghostty	lib/shells/darwin.ts,lib/shells/linux.ts
+GiB	ui/lib/bytes.ts
+gist.ghe.io	lib/endpoint-capabilities.ts
+gist.github.com	lib/endpoint-capabilities.ts
+Git	ui/tutorial/welcome.tsx,ui/preferences/preferences.tsx
+Git Bash	lib/hooks/config.ts,lib/shells/win32.ts
+Git Config	ui/repository-settings/repository-settings.tsx
+Git Ignore	ui/add-repository/create-repository.tsx
+Git LFS	ui/lfs/initialize-lfs.tsx,ui/changes/oversized-files-warning.tsx
+Git LFS attribute found in global Git configuration does not match expected value.	lib/git/core.ts
+GIT_	lib/hooks/hooks-proxy.ts
+GIT_ASKPASS	lib/hooks/hooks-proxy.ts
+GIT_AUTHOR_IDENT	lib/git/var.ts
+GIT_CONFIG_PARAMETERS	lib/trampoline/trampoline-environment.ts,lib/hooks/hooks-proxy.ts
+GIT_EXEC_PATH	lib/hooks/hooks-proxy.ts
+GIT_SSH_COMMAND	lib/hooks/hooks-proxy.ts
+GIT_SYSTEM_CONFIG	lib/hooks/hooks-proxy.ts
+GIT_TEMPLATE_DIR	lib/hooks/hooks-proxy.ts
+GIT_USER_AGENT	lib/hooks/hooks-proxy.ts
+git(['config', '--edit', '--global'], __dirname, 'getGlobalConfigPath',	lib/git/config.ts
+GitError	lib/git/core.ts
+GITHEAD_	lib/hooks/hooks-proxy.ts
+GitHub	lib/auth.ts,ui/lib/default-dir.ts
+GitHub Code Scanning	lib/ci-checks/ci-checks.ts
+GitHub Copilot	lib/copilot-app/win32.ts,ui/preferences/integrations.tsx
+GitHub Copilot billing is not configured for this account.	lib/copilot-error.ts
+GitHub Copilot could not be found.	lib/copilot-app/index.ts,lib/stores/app-store.ts
+GitHub Copilot returned a billing error.	lib/copilot-error.ts
+GitHub Desktop	lib/ssh/ssh-credential-storage.ts,ui/tutorial/welcome.tsx
+GitHub Desktop Dev	lib/auth.ts,lib/ssh/ssh-credential-storage.ts
+GitHub Desktop tutorial repository	lib/stores/helpers/create-tutorial-repository.ts
+GitHub Desktop was not able to contact the update server. Ensure you have internet connectivity and try again.	lib/squirrel-error-parser.ts
+GitHub Enterprise	lib/web-flow-committer.ts,ui/lib/git-email-not-found-warning.tsx
+GitHub Inc.	lib/copilot-app/win32.ts
+github.com	lib/endpoint-capabilities.ts,lib/api.ts
+GitHub.com	ui/preferences/accounts.tsx,ui/preferences/copilot.tsx
+github.sh	ui/lib/install-cli.ts
+GitHubDesktop-lfs-progress	lib/progress/lfs.ts
+GitHubUserDatabase	ui/index.tsx
+gitlab.com	lib/api.ts
+GNOME Console	lib/shells/linux.ts
+GNOME Terminal	lib/shells/linux.ts
+GoLand	lib/editors/win32.ts
+Google LLC	lib/editors/win32.ts
+got max pull requests, aborting	lib/api.ts
+GPT-4o	ui/copilot/edit-byok-model-dialog.tsx
+grant permission	ui/preferences/notifications.tsx,ui/test-notifications/test-notifications.tsx
+GraphQL-Features	lib/api.ts
+handleSSHHostAuthenticity: background task environment, skipping prompt	lib/trampoline/trampoline-askpass-handler.ts
+handleSSHKeyPassphrase: background task environment, skipping prompt	lib/trampoline/trampoline-askpass-handler.ts
+handleSSHUserPassword: background task environment, skipping prompt	lib/trampoline/trampoline-askpass-handler.ts
+Hands clapping	ui/tutorial/done.tsx
+Hang on…	ui/toolbar/push-pull-button.tsx,ui/toolbar/revert-progress.tsx
+HEAD	lib/http.ts,ui/lib/update-store.ts
+head repository can't be null	lib/stores/pull-request-store.ts
+HEAD^	ui/multi-commit-operation/dialog/copilot-conflicts-changes.tsx
+header filter-field-row	ui/changes/filter-changes-list.tsx
+Hide Whitespace Changes	ui/diff/diff-options.tsx
+HTTPS_PROXY	lib/git/environment.ts
+hunk-expansion-handle selectable hoverable	ui/diff/side-by-side-diff-row.tsx
+Hyper	lib/shells/darwin.ts,lib/shells/win32.ts
+I'll be using this fork…	ui/repository-settings/fork-settings.tsx
+Icon	lib/shells/win32.ts
+icon spin	ui/dialog/header.tsx
+if (!Array.isArray(output.patterns))	lib/git/lfs.ts
+if (files === undefined)	lib/stores/updates/changes-state.ts
+if (rowListIncludesIndexPath(this.props.selectedRows, row))	ui/lib/list/section-list.tsx
+if (section === RepositorySectionTab.History)	lib/stores/app-store.ts
+if (this.props.selectedRows.includes(row))	ui/lib/list/list.tsx
+if (typeof hunkObj.resolvedContent !== 'string')	lib/copilot-conflict-resolution.ts
+If-None-Match	lib/api.ts
+Ignore File (Add to .gitignore)	ui/changes/filter-changes-list.tsx
+Ignore Folder (Add to .gitignore)	ui/changes/filter-changes-list.tsx
+Ignored Files	ui/repository-settings/repository-settings.tsx
+ignoring https proxy, not supported in cURL/schannel	lib/resolve-git-proxy.ts
+Ignoring unavailable Copilot app handoff	lib/stores/app-store.ts
+In progress	lib/ci-checks/ci-checks.ts
+in_progress	lib/api.ts
+Include Selected Files	ui/changes/filter-changes-list.tsx
+incoming branch	lib/stores/app-store.ts,ui/multi-commit-operation/dialog/copilot-conflicts-dialog.tsx
+init.defaultBranch	lib/helpers/default-branch.ts
+Initial commit	lib/stores/helpers/create-tutorial-repository.ts,ui/add-repository/create-repository.tsx
+Initializing local repository	lib/stores/helpers/create-tutorial-repository.ts
+input:not([type=hidden]):not(:disabled):not([tabindex="-1"])	ui/dialog/dialog.tsx
+input[type=button], input[type=submit] input[type=reset], button	ui/dialog/dialog.tsx
+input[type=submit], button[type=submit]	ui/dialog/dialog.tsx
+Install and Restart	ui/release-notes/release-notes-dialog.tsx
+InstallationPath	lib/shells/win32.ts
+Installing update…	ui/installing-update/installing-update.tsx
+Installing Update…	ui/installing-update/installing-update.tsx
+InstallLocation	lib/editors/win32.ts,lib/copilot-app/win32.ts
+InstallPath	lib/hooks/get-shell.ts,lib/shells/win32.ts
+integration does not have GitHub chat enabled	lib/api.ts
+Integration does not have GitHub chat enabled.	lib/api.ts
+IntelliJ IDEA	lib/editors/win32.ts
+IntelliJ IDEA Community Edition	lib/editors/win32.ts
+Interactive rebase	lib/git/rebase.ts
+interface IAugmentedSectionFilterListProps	ui/lib/augmented-filter-list.tsx
+interface ISectionFilterListRowHeightInfo	ui/lib/section-filter-list.tsx
+interface ITestNotificationsState	ui/test-notifications/test-notifications.tsx
+interface ITutorialDoneProps	ui/tutorial/done.tsx
+Invalid date	lib/format-date.ts
+Invalid log output (dstMode)	lib/git/log.ts
+Invalid log output (srcMode)	lib/git/log.ts
+Invalid log output (status)	lib/git/log.ts
+Invalid numstat line	lib/git/log.ts
+Invalidated Account Token	ui/invalidated-token/invalidated-token.tsx
+io.alacritty	lib/shells/darwin.ts
+IssueComment	lib/markdown-filters/node-filter.ts
+IssuesDatabase	ui/index.tsx
+item.id === si.id))	ui/lib/augmented-filter-list.tsx
+JetBrains CLion	lib/editors/win32.ts
+JetBrains DataSpell	lib/editors/win32.ts
+JetBrains Fleet	lib/editors/win32.ts
+JetBrains GoLand	lib/editors/win32.ts
+JetBrains IntelliJ Idea	lib/editors/win32.ts
+JetBrains IntelliJ Idea Community Edition	lib/editors/win32.ts
+JetBrains PhpStorm	lib/editors/win32.ts
+JetBrains PyCharm	lib/editors/win32.ts
+JetBrains PyCharm Community Edition	lib/editors/win32.ts
+JetBrains Rider	lib/editors/win32.ts
+JetBrains RubyMine	lib/editors/win32.ts
+JetBrains RustRover	lib/editors/win32.ts
+JetBrains s.r.o.	lib/editors/win32.ts
+JetBrains Webstorm	lib/editors/win32.ts
+json_object	lib/api.ts
+KiB	ui/lib/bytes.ts
+kind contributor	ui/lib/test-ui-components/test-ui-components.ts
+Kitty	lib/shells/darwin.ts,lib/shells/linux.ts
+Konsole	lib/shells/linux.ts
+lastStashEntryCheck)	lib/stores/app-store.ts
+length)	ui/lib/path-text.tsx
+LICENSE	ui/add-repository/licenses.ts
+Link	lib/api.ts
+link-button-component example-link	ui/preferences/accessibility.tsx
+list-insertion-point bottom	ui/lib/list/list-item-insertion-overlay.tsx
+list-insertion-point top	ui/lib/list/list-item-insertion-overlay.tsx
+listHeight)	ui/lib/list/section-list.tsx,ui/lib/list/list.tsx
+ListRow	ui/lib/list/section-list.tsx,ui/lib/list/list.tsx
+Loading available models…	ui/preferences/copilot-user-settings.tsx
+Loading Copilot usage…	ui/preferences/snapshot-card.tsx
+Local Path	ui/add-repository/add-existing-repository.tsx,ui/lib/repository-path.tsx
+LOCAL_GIT_DIRECTORY	lib/shell.ts,ui/index.tsx
+Locate…	ui/missing-repository.tsx
+Login	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+LXDE Terminal	lib/shells/linux.ts
+M 0,0 0,0.7 4.3,5 0,9.3 0,10 0.7,10 5,5.7 9.3,10 10,10 10,9.3 5.7,5 10,0.7 10,0 9.3,0 5,4.3 0.7,0 Z	ui/window/window-controls.tsx
+M 0,0 0,10 10,10 10,0 Z M 1,1 9,1 9,9 1,9 Z	ui/window/window-controls.tsx
+M 0,5 10,5 10,6 0,6 Z	ui/window/window-controls.tsx
+m 2,1e-5 0,2 -2,0 0,8 8,0 0,-2 2,0 0,-8 z m 1,1 6,0 0,6 -1,0 0,-5 -5,0 z m -2,2 6,0 0,6 -6,0 z	ui/window/window-controls.tsx
+m.id === key.modelId))	ui/preferences/copilot-user-settings.tsx
+M0 6a.75.75 0 0 0 .974.714L4.469 3.22a.75.75 0 0 1 1.06 0l3.478 3.478a.75.75	ui/toolbar/push-pull-button.tsx
+M0 7.75A.75.75 0 0 1 .75 7h14.5a.75.75 0 0 1 0 1.5H.75A.75.75 0 0 1 0 7.75Z	ui/octicons/octicons.generated.ts
+M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-5.75a5.75 5.75 0 1 0 0 11.5 5.75 5.75 0 1 0 0-11.5Z	ui/octicons/octicons.generated.ts
+M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z	ui/octicons/octicons.generated.ts
+M1.5 8a6.5 6.5 0 0 1 13 0A.75.75 0 0 0 16 8a8 8 0 1 0-8 8 .75.75 0 0 0 0-1.5A6.5 6.5 0 0 1 1.5 8Z	ui/octicons/octicons.generated.ts
+M1.5 8a6.5 6.5 0 1 1 13 0A.75.75 0 0 0 16 8a8 8 0 1 0-8 8 .75.75 0 0 0 0-1.5A6.5 6.5 0 0 1 1.5 8Z	ui/octicons/octicons.generated.ts
+M10 8a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z	ui/octicons/octicons.generated.ts
+M10.5 1.286h-9a.214.214 0 0 0-.214.214v9a.214.214 0 0 0 .214.214h9a.214.214 0 0 0	ui/changes/filter-changes-list.tsx
+M10.75 9a.75.75 0 0 0 0 1.5h1.5a.75.75 0 0 0 0-1.5h-1.5Z	ui/octicons/octicons.generated.ts
+M11 5h1v1.146a1 1 0 0 1-.629.928L11 7.223V5ZM5 7.223l-.371-.149A1 1 0 0 1 4 6.146V5h1v2.223Z	ui/octicons/octicons.generated.ts
+M11.25 16.25v-5h1.5v5h-1.5Z	ui/octicons/octicons.generated.ts
+M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z	ui/octicons/octicons.generated.ts
+M11.646 15.146 5.854 9.354a.5.5 0 0 1 .353-.854h11.586a.5.5 0 0 1 .353.854l-5.793 5.792a.5.5 0 0 1-.707 0Z	ui/octicons/octicons.generated.ts
+M12 1.5a.75.75 0 0 1 .75.75v6a.75.75 0 0 1-1.5 0v-6A.75.75 0 0 1 12 1.5Z	ui/octicons/octicons.generated.ts
+M12 13.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z	ui/octicons/octicons.generated.ts
+M12 18a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z	ui/octicons/octicons.generated.ts
+M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12Zm0-1.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z	ui/octicons/octicons.generated.ts
+M12 7a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-1.5 0v-4.5A.75.75 0 0 1 12 7Zm0 10a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z	ui/octicons/octicons.generated.ts
+m12.354 8.854 5.792 5.792a.5.5 0 0 1-.353.854H6.207a.5.5 0 0 1-.353-.854l5.792-5.792a.5.5 0 0 1 .708 0Z	ui/octicons/octicons.generated.ts
+M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z	ui/octicons/octicons.generated.ts
+M12.75 8.75a.75.75 0 0 0-1.5 0v6.5a.75.75 0 0 0 1.5 0v-6.5Z	ui/octicons/octicons.generated.ts
+M13 15.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-.25-8.25a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z	ui/octicons/octicons.generated.ts
+M13 17.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-.25-8.25a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z	ui/octicons/octicons.generated.ts
+M13.414 13.414a2 2 0 1 1-2.828-2.828 2 2 0 0 1 2.828 2.828Z	ui/octicons/octicons.generated.ts
+M14 6a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z	ui/octicons/octicons.generated.ts
+M14 6V4.25a.75.75 0 0 1 1.5 0V6h1.75a.75.75 0 1 1 0 1.5H15.5v1.75a.75.75 0 0	ui/changes/commit-message.tsx
+M14 8A6 6 0 1 1 2 8a6 6 0 0 1 12 0Zm-1.5 0a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0Z	ui/octicons/octicons.generated.ts
+M14.5 11.25a.75.75 0 0 0 0-1.5h-8a.75.75 0 0 0 0 1.5h8Z	ui/octicons/octicons.generated.ts
+M14.5 12a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Zm1.5 0a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z	ui/octicons/octicons.generated.ts
+M14.5 12a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z	ui/octicons/octicons.generated.ts
+m15.146 12.354-5.792 5.792a.5.5 0 0 1-.854-.353V6.207a.5.5 0 0 1 .854-.353l5.792 5.792a.5.5 0 0 1 0 .708Z	ui/octicons/octicons.generated.ts
+M15.25 14a.75.75 0 0 0 0 1.5h3.5a.75.75 0 0 0 0-1.5h-3.5Z	ui/octicons/octicons.generated.ts
+M15.5 12a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z	ui/octicons/octicons.generated.ts
+M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0Zm-1.5 0a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z	ui/octicons/octicons.generated.ts
+M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z	ui/octicons/octicons.generated.ts
+M16.243 7.757a.75.75 0 1 0-1.061 1.061 4.5 4.5 0 0 1 0 6.364.75.75 0 0 0 1.06 1.06 6 6 0 0 0 0-8.485Z	ui/octicons/octicons.generated.ts
+M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z	ui/octicons/octicons.generated.ts
+M16.75 8.5a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5Z	ui/octicons/octicons.generated.ts
+M17.03 9.78a.75.75 0 0 0-1.06-1.06l-5.47 5.47-2.47-2.47a.75.75 0 0 0-1.06 1.06l3 3a.75.75 0 0 0 1.06 0l6-6Z	ui/octicons/octicons.generated.ts
+M17.28 7.78a.75.75 0 0 0-1.06-1.06l-9.5 9.5a.75.75 0 1 0 1.06 1.06l9.5-9.5Z	ui/octicons/octicons.generated.ts
+M2 12.75a.75.75 0 0 1 .75-.75h18.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1-.75-.75Z	ui/octicons/octicons.generated.ts
+M2 7.75A.75.75 0 0 1 2.75 7h10a.75.75 0 0 1 0 1.5h-10A.75.75 0 0 1 2 7.75Z	ui/octicons/octicons.generated.ts
+M2.5 2.75a.75.75 0 0 0-1.5 0v18.5c0 .414.336.75.75.75H20a.75.75 0 0 0 0-1.5H2.5V2.75Z	ui/octicons/octicons.generated.ts
+M21 12a9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9 9 9 0 0 1 9 9Zm-1.5 0a7.5 7.5 0 1 0-15 0 7.5 7.5 0 0 0 15 0Z	ui/octicons/octicons.generated.ts
+M24 5.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z	ui/octicons/octicons.generated.ts
+M3.75 8a4.25 4.25 0 1 1 8.5 0 4.25 4.25 0 0 1-8.5 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z	ui/octicons/octicons.generated.ts
+M4 8a4 4 0 1 1 8 0 4 4 0 0 1-8 0Zm4-2.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z	ui/octicons/octicons.generated.ts
+m4.177 7.823 2.396-2.396A.25.25 0 0 1 7 5.604v4.792a.25.25 0 0 1-.427.177L4.177 8.177a.25.25 0 0 1 0-.354Z	ui/octicons/octicons.generated.ts
+M4.25 7.25a.75.75 0 0 0 0 1.5h7.5a.75.75 0 0 0 0-1.5h-7.5Z	ui/octicons/octicons.generated.ts
+m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z	ui/octicons/octicons.generated.ts
+m4.427 9.573 3.396-3.396a.25.25 0 0 1 .354 0l3.396 3.396a.25.25 0 0 1-.177.427H4.604a.25.25 0 0 1-.177-.427Z	ui/octicons/octicons.generated.ts
+M4.5 12.75a.75.75 0 0 1 .75-.75h13.5a.75.75 0 0 1 0 1.5H5.25a.75.75 0 0 1-.75-.75Z	ui/octicons/octicons.generated.ts
+M4.5 6.75h6a.75.75 0 0 1 0 1.5h-6a.75.75 0 0 1 0-1.5Z	ui/octicons/octicons.generated.ts
+M5 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm6-6a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM8 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z	ui/octicons/octicons.generated.ts
+M5 5.75A.75.75 0 0 1 5.75 5h4.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-.75.75h-4.5a.75.75 0 0 1-.75-.75Z	ui/octicons/octicons.generated.ts
+M5.75 16.75A.75.75 0 0 1 5 16V8a.75.75 0 0 1 1.5 0v8a.75.75 0 0 1-.75.75Z	ui/octicons/octicons.generated.ts
+M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm3 5H3v2h6Z	ui/octicons/octicons.generated.ts
+M6 10.559V5.442a.25.25 0 0 1 .379-.215l4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559Z	ui/octicons/octicons.generated.ts
+m6.427 4.427 3.396 3.396a.25.25 0 0 1 0 .354l-3.396 3.396A.25.25 0 0 1 6 11.396V4.604a.25.25 0 0 1 .427-.177Z	ui/octicons/octicons.generated.ts
+M6.5 7.25c0 2.9 2.35 5.25 5.25 5.25h4.5V14h-4.5A6.75 6.75 0 0 1 5 7.25Z	ui/octicons/octicons.generated.ts
+M6.823 7.823a.25.25 0 0 1 0 .354l-2.396 2.396A.25.25 0 0 1 4 10.396V5.604a.25.25 0 0 1 .427-.177Z	ui/octicons/octicons.generated.ts
+M7.22 6.5a.72.72 0 1 1-1.44 0 .72.72 0 0 1 1.44 0Z	ui/octicons/octicons.generated.ts
+M7.313 11.25a.75.75 0 0 0 0 1.5h9.937a.75.75 0 0 0 0-1.5H7.312Z	ui/octicons/octicons.generated.ts
+M7.75 6.5a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5Z	ui/octicons/octicons.generated.ts
+m7.854 10.854 3.792 3.792a.5.5 0 0 0 .708 0l3.793-3.792a.5.5 0 0 0-.354-.854H8.207a.5.5 0 0 0-.353.854Z	ui/octicons/octicons.generated.ts
+M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z	ui/octicons/octicons.generated.ts
+M8 10a2 2 0 1 0 .001-3.999A2 2 0 0 0 8 10Z	ui/octicons/octicons.generated.ts
+M8 11a2 2 0 1 1 .001 3.999A2 2 0 0 1 8 11ZM8 1a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-3 0v-6A1.5 1.5 0 0 1 8 1Z	ui/octicons/octicons.generated.ts
+M8 12c0-.414.358-.75.8-.75h6.4c.442 0 .8.336.8.75s-.358.75-.8.75H8.8c-.442 0-.8-.336-.8-.75Z	ui/octicons/octicons.generated.ts
+M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Zm0-1.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z	ui/octicons/octicons.generated.ts
+M8 2.5c1.645 0 3.123.722 4.131 1.869l-1.204 1.204a.25.25 0 0 0 .177.427h3.646a.25.25	ui/octicons/sync-clockwise.ts
+M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z	ui/octicons/octicons.generated.ts
+M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z	ui/octicons/octicons.generated.ts
+M8.63 7.749c0 .414-.336.75-.75.75-.414 0-.75-.336-.75-.75 0-.414.336-.75.75-.75.414 0 .75.336.75.75z	ui/octicons/octicons.generated.ts
+M8.75 5.75a.75.75 0 0 0-1.5 0v4.5a.75.75 0 0 0 1.5 0v-4.5Z	ui/octicons/octicons.generated.ts
+m8.854 11.646 5.792-5.792a.5.5 0 0 1 .854.353v11.586a.5.5 0 0 1-.854.353l-5.792-5.792a.5.5 0 0 1 0-.708Z	ui/octicons/octicons.generated.ts
+M9 10.75a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0ZM16.25 12a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5Z	ui/octicons/octicons.generated.ts
+M9 15.584V8.416a.5.5 0 0 1 .77-.42l5.576 3.583a.5.5 0 0 1 0 .842L9.77 16.005a.5.5 0 0 1-.77-.42Z	ui/octicons/octicons.generated.ts
+M9.06 9.06a1.5 1.5 0 1 1-2.12-2.12 1.5 1.5 0 0 1 2.12 2.12Z	ui/octicons/octicons.generated.ts
+M9.5 15.584V8.416a.5.5 0 0 1 .77-.42l5.576 3.583a.5.5 0 0 1 0 .842l-5.576 3.584a.5.5 0 0 1-.77-.42Z	ui/octicons/octicons.generated.ts
+M9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z	ui/octicons/octicons.generated.ts
+M9.573 4.427 6.177 7.823a.25.25 0 0 0 0 .354l3.396 3.396a.25.25 0 0 0 .427-.177V4.604a.25.25 0 0 0-.427-.177Z	ui/octicons/octicons.generated.ts
+M9.75 11.5a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5h-4.5Z	ui/octicons/octicons.generated.ts
+Macintosh	lib/http.ts
+MainBinaryName	lib/copilot-app/win32.ts
+Make sure notifications are	ui/test-notifications/test-notifications.tsx
+Malformed diff, empty hunk	lib/diff-parser.ts
+Marked as stale	lib/ci-checks/ci-checks.ts
+MATE Terminal	lib/shells/linux.ts
+MAX_CONFLICT_CONTENT_SIZE)	lib/copilot-conflict-context.ts
+MAX_CONFLICT_FILE_READ_SIZE)	lib/copilot-conflict-context.ts
+MAX_CONFLICT_LINE_LENGTH)	lib/copilot-conflict-context.ts
+max)	lib/clamp.ts
+MaxAuthorsToList)	ui/unknown-authors/unknown-authors-dialog.tsx
+MaxCharactersPerLine)	lib/git/diff.ts
+MaxFilesToList)	ui/discard-changes/discard-changes-dialog.tsx
+MaxRepositoriesToList)	ui/lfs/initialize-lfs.tsx
+MaxTagNameLength)	ui/create-tag/create-tag-dialog.tsx
+MERGE_HEAD	lib/git/merge.ts,lib/git/status.ts
+merge-message merge-message-loading	ui/history/merge-call-to-action-with-conflicts.tsx
+merge(this.repository, branch.name,	lib/stores/git-store.ts
+Metadata did not conclusively identify a directory	lib/is-application-bundle.ts
+MiB	ui/lib/bytes.ts
+Microsoft Corporation	lib/editors/win32.ts
+Microsoft Visual Studio Code	lib/editors/win32.ts
+Microsoft Visual Studio Code Insiders	lib/editors/win32.ts
+MINUTE)	ui/relative-time.tsx
+Missing existing owner id	lib/databases/repositories-database.ts
+Missing old path	lib/git/log.ts
+Missing owner id	lib/databases/repositories-database.ts,lib/stores/repositories-store.ts
+Missing path	lib/git/log.ts
+Model changes apply to future conflict resolutions.	ui/preferences/copilot-user-settings.tsx
+Model Identifier	ui/copilot/edit-byok-model-dialog.tsx
+models !== null))	lib/stores/app-store.ts
+modified and untracked	ui/diff/submodule-diff.tsx
+Mona Lisa	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+mostRecentlyUpdated)	lib/stores/pull-request-store.ts
+must specify at least one step	lib/progress/git.ts
+name already exists on this account	lib/stores/helpers/create-tutorial-repository.ts
+Need db id to create GitHubRepository	lib/stores/repositories-store.ts
+net.kovidgoyal.kitty	lib/shells/darwin.ts
+Neutral	lib/ci-checks/ci-checks.ts
+New	lib/status.ts,ui/changes/commit-message.tsx
+New Branch	ui/branches/branch-list.tsx,ui/branches/branches-container.tsx
+new Intl.RelativeTimeFormat(locale, options),	lib/format-relative.ts
+new Promise	lib/hooks/hooks-proxy.ts,lib/stores/app-store.ts
+New Worktree	ui/worktrees/worktree-list.tsx
+New Worktree…	ui/repositories-list/repository-list-item-context-menu.ts,ui/toolbar/worktree-dropdown.tsx
+Newer Commits on Remote	ui/push-needs-pull/push-needs-pull-warning.tsx
+nextTruncatedIx)	ui/lib/path-text.tsx
+No Branches to Compare	ui/history/compare.tsx
+No choice found in response	lib/api.ts
+No comments found	ui/test-notifications/test-notifications.tsx
+No commits to diff...	lib/git/diff.ts
+No conflict markers found	lib/copilot-conflict-context.ts
+No Copilot endpoint available	lib/api.ts
+No currently selected sha yet we've been asked to switch file selection	lib/stores/app-store.ts
+No data line found in response	lib/api.ts
+No GitHub repository to test with - check out a github repo and try again	ui/lib/test-ui-components/test-ui-components.ts
+No GitHub repository to test with - check out a GitHub repository and try again	ui/lib/test-ui-components/test-ui-components.ts
+no id after loading from db	lib/stores/repositories-store.ts
+No message found in response	lib/api.ts
+No pull requests found	ui/test-notifications/test-notifications.tsx
+No Repositories	ui/app.tsx
+No repository to test with - check out a repository and try again	ui/lib/test-ui-components/test-ui-components.ts
+No response from Copilot	lib/stores/copilot-store.ts
+No reviews found	ui/test-notifications/test-notifications.tsx
+No submodules found. Skipping "git submodule status"	lib/git/submodule.ts
+no-items empty-repository-list	ui/clone-repository/cloneable-repository-filter-list.tsx
+no-items loading	ui/clone-repository/cloneable-repository-filter-list.tsx
+no-items no-results-found	ui/repositories-list/repositories-list.tsx,ui/clone-repository/cloneable-repository-filter-list.tsx
+no-padding terms-and-license	ui/about/about.tsx
+node:fs	lib/tailer.ts
+non-re-run-info warning-helper-text	ui/check-runs/ci-check-run-rerun-dialog.tsx
+noreply@github.com	lib/web-flow-committer.ts
+NoSuggestedActionsProvided	lib/helpers/non-fatal-exception.ts,ui/suggested-actions/dropdown-suggested-action.tsx
+Not Now	ui/lfs/initialize-lfs.tsx,ui/lfs/attribute-mismatch.tsx
+Notepad++	lib/editors/win32.ts
+Notepad++ Team	lib/editors/win32.ts
+NotificationClicked	lib/stats/stats-store.ts
+NotificationCount	lib/stats/stats-store.ts
+Notifications Settings	ui/preferences/notifications.tsx,ui/test-notifications/test-notifications.tsx
+NotificationShownCount	lib/stats/stats-store.ts
+Number Format	ui/preferences/appearance.tsx
+One or more rules	ui/changes/commit-message.tsx
+Open a Pull Request	ui/open-pull-request/open-pull-request-header.tsx
+Open Editor	ui/tutorial/tutorial-panel.tsx
+Open Git Settings	ui/changes/commit-message-avatar.tsx
+Open GitHub Copilot settings	lib/copilot-error.ts
+Open in Browser	ui/tutorial/done.tsx,ui/notifications/pull-request-review.tsx
+Open in External Editor	ui/lib/context-menu.ts
+Open in Shell	ui/lib/context-menu.ts
+Open Pull Request	ui/tutorial/tutorial-panel.tsx
+Open repository	ui/diff/submodule-diff.tsx,ui/cli-action/test-cli-action-dialog.tsx
+Open with Default Program	ui/lib/context-menu.ts
+Open With…	ui/open-with-external-editor/open-with-external-editor.tsx
+Open Without Git	ui/install-git/install.tsx
+Optimizing repository…	ui/changes/commit-message.tsx
+Options	lib/editors/lookup.ts,lib/editors/launch.ts
+org.alacritty	lib/shells/darwin.ts
+org.tabby	lib/shells/darwin.ts
+Organization	lib/api.ts,lib/markdown-filters/team-mention-filter.ts
+organization has enabled or enforced SAML SSO.*?you must re-authorize/s	ui/dispatcher/error-handlers.ts
+organization_member	lib/api.ts,lib/stores/api-repositories-store.ts
+Other	lib/ci-checks/ci-checks.ts,ui/repositories-list/repositories-list.tsx
+Other Branches	ui/branches/branch-list.tsx
+Ours (current branch):	lib/copilot-conflict-context.ts
+out of the way, or remove it, and then try again.	lib/stores/helpers/create-tutorial-repository.ts
+OutstandingFilesNotStaged	lib/git/rebase.ts,lib/git/cherry-pick.ts
+Overage	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Overage allowed with exhausted quota	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Overwrite Stash?	ui/stash-changes/overwrite-stashed-changes-dialog.tsx
+owner,collabor	lib/api.ts
+owner,collaborator,organization_member	lib/api.ts
+owner,organization_member	lib/api.ts
+p.id === id))	lib/stores/app-store.ts
+p.id === provider.id))	ui/app.tsx
+PageDown	ui/lib/list/section-list.tsx,ui/lib/list/list.tsx
+PageUp	ui/lib/list/section-list.tsx,ui/lib/list/list.tsx
+panel binary	ui/diff/binary-file.tsx
+panel blankslate	ui/changes/multiple-selection.tsx,ui/history/commit-list.tsx
+panel empty	ui/diff/index.tsx
+panel empty large-diff	ui/diff/index.tsx
+panel image	ui/diff/image-diffs/modified-image-diff.tsx,ui/diff/image-diffs/new-image-diff.tsx
+panel renamed	ui/diff/index.tsx
+Parent repositories are always fully loaded	lib/stores/git-store.ts
+Parent repositories are fully loaded	lib/stores/git-store.ts
+parse+validate+reassemble	lib/stores/copilot-store.ts
+parseInt(h, 10)) as Array	ui/octicons/octicon.tsx
+Path	ui/preferences/custom-integration-form.tsx,ui/cli-action/test-cli-action-dialog.tsx
+PATH	lib/hooks/hooks-proxy.ts
+PENDING	lib/api.ts
+Permanently Discard Changes	ui/discard-changes/discard-changes-retry-dialog.tsx
+Permission denied.	lib/git/core.ts
+PhpStorm	lib/editors/win32.ts
+PiB	ui/lib/bytes.ts
+Pick	lib/stats/stats-store.ts,lib/stores/repository-state-cache.ts
+Please delete the repository and try again.	lib/stores/helpers/create-tutorial-repository.ts
+PopupNoId	lib/helpers/non-fatal-exception.ts,ui/app.tsx
+Posit Software	lib/editors/win32.ts
+POST	lib/http.ts,lib/api.ts
+PowerShell	lib/shells/win32.ts
+PowerShell Core	lib/hooks/config.ts,lib/shells/darwin.ts
+PR cannot have a null base repo	lib/stores/pull-request-store.ts
+PRE	lib/markdown-filters/issue-mention-filter.ts,lib/markdown-filters/emoji-filter.ts
+PreferencesTab.Copilot)	ui/preferences/preferences.tsx
+Premium requests / AI credits	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+premium_interactions	ui/preferences/snapshot-card.tsx,ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Previous Tags	ui/create-tag/create-tag-dialog.tsx
+printf %s	lib/git/config.ts
+private readonly emojiBase64URICache: Map	lib/markdown-filters/emoji-filter.ts
+ProgramFiles(x86)	lib/shells/win32.ts
+Programs	lib/copilot-app/win32.ts
+Promise	ui/lib/git-perf.ts,ui/main-process-proxy.ts
+properly configured	ui/preferences/notifications.tsx,ui/test-notifications/test-notifications.tsx
+protocol.file.allow=always	lib/git/submodule.ts
+Ptyxis	lib/shells/linux.ts
+public constructor(allBranches: ReadonlyArray	ui/autocompletion/branch-autocompletion-provider.tsx
+public constructor(dataStore: IDataStore, secureStore: ISecureStore)	lib/stores/accounts-store.ts
+public constructor(emoji: Map	ui/autocompletion/emoji-autocompletion-provider.tsx
+public constructor(name: string, schemaVersion?: number)	lib/databases/pull-request-database.ts,lib/databases/github-user-database.ts
+public constructor(name: string)	lib/stats/stats-database.ts
+public constructor(state: Map	lib/menu-update.ts
+public declare dailyMeasures: Dexie.Table	lib/stats/stats-database.ts
+public declare mentionableCache: Dexie.Table	lib/databases/github-user-database.ts
+public declare pullRequestsLastUpdated: Dexie.Table	lib/databases/pull-request-database.ts
+public.executable	lib/is-application-bundle.ts
+public.folder	lib/is-application-bundle.ts
+Publish Branch	ui/branches/push-branch-commits.tsx
+Publish Branch?	ui/branches/push-branch-commits.tsx
+Publish Repository	ui/publish-repository/publish.tsx
+Publisher	lib/editors/win32.ts,lib/copilot-app/win32.ts
+Pull Request checks failed	lib/stores/notifications-store.ts,lib/stores/notifications-debug-store.ts
+Pull Request Checks Failed	ui/test-notifications/test-notifications.tsx
+Pull Request Comment	ui/test-notifications/test-notifications.tsx
+Pull Request Review	ui/test-notifications/test-notifications.tsx
+Pull Requests	ui/branches/branches-container.tsx
+Pull requests for	ui/test-notifications/test-notifications.tsx
+pull_request	lib/api.ts
+pull_requests_only	lib/api.ts
+pull.ff	lib/git/pull.ts
+pull.rebase	lib/stores/git-store.ts
+PullRequest	lib/markdown-filters/close-keyword-filter.ts,lib/markdown-filters/node-filter.ts
+PullRequestComment	lib/markdown-filters/node-filter.ts,ui/notifications/pull-request-comment-like.tsx
+PullRequestDatabase	ui/index.tsx
+PullRequestState	lib/helpers/non-fatal-exception.ts,lib/stores/repository-state-cache.ts
+Pulsar	lib/editors/win32.ts
+Pulsar-Edit	lib/editors/win32.ts
+Push Blocked: Secret Detected	ui/secret-scanning/push-protection-error-dialog.tsx
+Push Commits	ui/branches/push-branch-commits.tsx
+Push Rejected	ui/workflow-push-rejected/workflow-push-rejected.tsx
+push-branch-commits-title push-branch-commits-message	ui/branches/push-branch-commits.tsx
+PUT	lib/http.ts
+PyCharm	lib/editors/win32.ts
+PyCharm Community Edition	lib/editors/win32.ts
+quickViewHeight)	ui/pull-request-quick-view.tsx
+Quit Anyway	ui/installing-update/installing-update.tsx
+Quota exceeded	lib/copilot-error.ts
+quota_exceeded	lib/copilot-error.ts
+R100	lib/git/log.ts
+Rate limit preset	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Rate limited, try again in a few minutes.	lib/api.ts
+Re-authorization Required	ui/saml-reauth-required/saml-reauth-required.tsx
+Re-run All Checks	ui/check-runs/ci-check-re-run-button.tsx
+Re-run Failed Checks	ui/check-runs/ci-check-re-run-button.tsx
+readonly accounts: ReadonlyArray	ui/lib/avatar-stack.tsx,ui/drag-elements/commit-drag-element.tsx
+readonly byokProviders: ReadonlyArray	ui/lib/copilot-model-picker.tsx,ui/preferences/copilot.tsx
+readonly cachedRepoRulesets: ReadonlyMap	ui/rename-branch/rename-branch-dialog.tsx,ui/create-branch/create-branch-dialog.tsx
+readonly comments: ReadonlyArray	ui/test-notifications/test-notifications.tsx
+readonly commitLookup: Map	ui/history/compare.tsx
+readonly copilotResolutions: ReadonlyArray	ui/multi-commit-operation/dialog/copilot-conflicts-changes.tsx
+readonly emoji: Map	ui/history/commit-list-item.tsx
+readonly importPaths: ReadonlySet	lib/copilot-conflict-resolution.ts
+readonly items: ReadonlyArray	ui/autocompletion/autocompleting-text-input.tsx
+readonly localCommitSHAs: ReadonlyArray	ui/history/selected-commits.tsx,ui/history/compare.tsx
+readonly measures?: Readonly	lib/stats/stats-store.ts
+readonly newContents: ReadonlyArray	ui/diff/syntax-highlighting/index.ts
+readonly newLineFilter: Array	ui/diff/syntax-highlighting/index.ts
+readonly newReleases: ReadonlyArray	ui/release-notes/release-notes-dialog.tsx
+readonly nonRerunnable: ReadonlyArray	ui/check-runs/ci-check-run-rerun-dialog.tsx
+readonly onFileSelectionChanged: (rows: ReadonlyArray	ui/changes/filter-changes-list.tsx
+readonly pullRequests: ReadonlyArray	ui/branches/branches-container.tsx
+readonly recentRepositories: ReadonlyArray	ui/repositories-list/repositories-list.tsx
+readonly references: ReadonlySet	lib/copilot-conflict-resolution.ts
+readonly reviews: ReadonlyArray	ui/test-notifications/test-notifications.tsx
+readonly selectedCommits: ReadonlyArray	ui/history/selected-commits.tsx
+readonly selectedItems: ReadonlyArray	ui/changes/filter-changes-list.tsx
+readonly selectedRows: ReadonlyArray	ui/lib/augmented-filter-list.tsx,ui/test-notifications/test-notifications.tsx
+readonly shasInDiff: ReadonlyArray	ui/history/expandable-commit-summary.tsx,ui/history/selected-commits.tsx
+readonly subtitle: ReadonlyArray	lib/fuzzy-find.ts
+readonly theirCommits: ReadonlyArray	lib/copilot-conflict-context.ts
+readonly userContributions: ReadonlyArray	ui/thank-you/thank-you.tsx
+ReadonlyArray	lib/stores/helpers/repository-indicator-updater.ts,lib/fuzzy-find.ts
+realm="GitHub"	lib/trampoline/trampoline-credential-helper.ts
+Reasoning Effort	ui/copilot/edit-byok-model-dialog.tsx
+REBASE_HEAD	lib/git/rebase.ts,lib/git/status.ts
+rebase.backend=merge	lib/git/core.ts
+rebase(repository, baseBranch, targetBranch, progressCallback),	lib/stores/app-store.ts
+ReceiveLimit)	lib/large-files.ts
+Receiving objects	lib/progress/clone.ts,lib/progress/fetch.ts
+Recent Branches	ui/branches/branch-list.tsx
+Remaining percentage	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Remote URL configuration is missing a value	lib/git/remote.ts
+remote:	ui/dispatcher/error-handlers.ts
+remote: Compressing objects	lib/progress/clone.ts,lib/progress/fetch.ts
+remote: Counting objects	lib/git/fetch.ts,lib/git/pull.ts
+remote: Resolving deltas	lib/progress/push.ts
+remote.	lib/git/remote.ts
+Remove Alias	ui/repositories-list/repository-list-item-context-menu.ts
+Remove Co-Authors	ui/changes/commit-message.tsx
+Remove Custom Provider	ui/copilot/confirm-delete-byok-provider-dialog.tsx
+Remove Repository	ui/remove-repository/confirm-remove-repository.tsx
+Remove…	ui/repositories-list/repository-list-item-context-menu.ts
+Rename Branch	ui/rename-branch/rename-branch-dialog.tsx
+Rename Worktree	ui/worktrees/rename-worktree-dialog.tsx
+Renamed	lib/status.ts
+Reorder Commit	ui/history/commit-list.tsx
+Reorder Commits	ui/history/commit-list.tsx
+Repository creation failed.	lib/stores/helpers/create-tutorial-repository.ts
+Repository settings	ui/repository-settings/repository-settings.tsx
+Repository Settings	ui/repository-settings/repository-settings.tsx
+repository-list-item-tooltip list-item-tooltip	ui/repositories-list/repositories-list.tsx
+Request Timeout (seconds)	ui/copilot/edit-byok-provider-dialog.tsx
+required_deployments	lib/api.ts
+required_signatures	lib/api.ts
+required_status_checks	lib/api.ts
+Reset date	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Reset to Commit	ui/reset/warning-before-reset.tsx
+Reset to commit…	ui/history/commit-list.tsx
+Reset to Commit…	ui/history/commit-list.tsx
+resize-handle left	ui/window/title-bar.tsx
+resize-handle top	ui/window/title-bar.tsx
+ResizeObserver loop completed with undelivered notifications.	ui/index.tsx
+resolve conflicts with Copilot	lib/stores/app-store.ts
+resolve(	lib/hooks/hooks-proxy.ts,lib/trampoline/trampoline-ui-helper.ts
+Resolved	lib/status.ts
+Resolving deltas	lib/progress/clone.ts,lib/progress/fetch.ts
+Respond with `"action": "keep"` to preserve the modified file, or `"action": "delete"` to accept the deletion.	lib/copilot-conflict-context.ts
+Retry Clone	ui/app-error.tsx
+Retry-After	lib/api.ts
+RetryLimit)	ui/lib/avatar.tsx
+return (	ui/lib/sign-in.tsx
+Return to In Progress Tutorial	ui/no-repositories/no-repositories-view.tsx
+Revert Changes in Commit	ui/history/commit-list.tsx
+Reverting first commit	lib/stores/git-store.ts
+Reverting…	ui/toolbar/revert-progress.tsx
+Review without body	ui/test-notifications/test-notifications.tsx
+Reviews:	ui/test-notifications/test-notifications.tsx
+rowHeight=	ui/repositories-list/repositories-list.tsx
+RSA	lib/trampoline/trampoline-askpass-handler.ts
+RStudio	lib/editors/win32.ts
+RubyMine	lib/editors/win32.ts
+RustRover	lib/editors/win32.ts
+s applications, such as GitHub Desktop™ and	ui/terms-and-conditions/terms-and-conditions.tsx
+s behalf,	ui/terms-and-conditions/terms-and-conditions.tsx
+s choice)	ui/copilot/edit-byok-model-dialog.tsx
+s default branch.	ui/repository-settings/fork-contribution-target-description.tsx
+s hosting service, you might need to	ui/generic-git-auth/generic-git-auth.tsx
+s logos include, for instance, the stylized designs that	ui/terms-and-conditions/terms-and-conditions.tsx
+s password: $/	lib/trampoline/trampoline-askpass-handler.ts
+s prior, written	ui/terms-and-conditions/terms-and-conditions.tsx
+s Privacy Statement,	ui/terms-and-conditions/terms-and-conditions.tsx
+s source code	ui/terms-and-conditions/terms-and-conditions.tsx
+safe.directory	lib/git/config.ts
+Search…	ui/diff/diff-search-input.tsx
+Select a Repository	ui/app.tsx
+Select All	ui/diff/side-by-side-diff.tsx
+Select branch to compare…	ui/history/compare.tsx
+Select Branch to Compare…	ui/history/compare.tsx
+Select the type of notification to display:	ui/test-notifications/test-notifications.tsx
+select-component no-options-found	ui/preferences/integrations.tsx
+selectable path-text	ui/lib/path-text.tsx
+Session limits	ui/preferences/snapshot-card.tsx,ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Session quota exceeded	lib/copilot-error.ts
+session_quota_exceeded	lib/copilot-error.ts
+session.error	lib/stores/copilot-store.ts
+Settings	lib/editors/lookup.ts,lib/editors/launch.ts
+Settings → Copilot	ui/multi-commit-operation/dialog/copilot-conflict-resolution-always-nudge.tsx
+SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8	lib/trampoline/trampoline-askpass-handler.ts
+Shell	ui/preferences/integrations.tsx
+Shift	lib/menu-item.ts,ui/repositories-list/repositories-list.tsx
+Show Diff	ui/diff/index.tsx
+Show Worktrees	ui/repositories-list/repository-list-item-context-menu.ts
+show_partial	lib/markdown-filters/commit-mention-link-filter.ts
+side-by-side-diff cm-s-default	ui/diff/side-by-side-diff.tsx
+SIGKILL	lib/copilot-app/index.ts
+Sign In	ui/preferences/copilot.tsx,ui/clone-repository/clone-repository.tsx
+Sign in Using Your Browser	ui/sign-in/sign-in.tsx
+Sign Into	ui/preferences/accounts.tsx
+Sign Out	ui/preferences/accounts.tsx
+SignInToDotComWithBrowser	ui/welcome/welcome.tsx
+SignInToEnterprise	ui/welcome/welcome.tsx
+Skipped	lib/ci-checks/ci-checks.ts
+SlickEdit	lib/editors/win32.ts
+SlickEdit Inc.	lib/editors/win32.ts
+small-button button-group-item	ui/lib/conflicts/unmerged-file.tsx
+small-button button-group-item arrow-menu	ui/lib/conflicts/unmerged-file.tsx
+small-button button-group-item resolve-arrow-menu	ui/lib/conflicts/unmerged-file.tsx
+Something went wrong. Please, try again later.	lib/api.ts
+source.endsWith(file)))	lib/source-map-support.ts
+Space	lib/menu-item.ts
+spawn(cmd, args,	lib/custom-integration.ts
+SQUASH_MSG	lib/git/merge.ts
+SSH key passphrases	lib/ssh/ssh-key-passphrase.ts
+SSH user password	lib/ssh/ssh-user-password.ts
+START	lib/shells/win32.ts
+start with	lib/helpers/repo-rules.ts
+starts_with	lib/api.ts
+Stash	lib/app-state.ts
+Stash All Changes	ui/changes/filter-changes-list.tsx
+Stash all changes…	ui/changes/filter-changes-list.tsx
+Stash All Changes…	ui/changes/filter-changes-list.tsx
+Stash Changes and Continue	ui/local-changes-overwritten/local-changes-overwritten-dialog.tsx
+Stashed Changes	ui/changes/filter-changes-list.tsx
+state.fullPath === fullPath ?	ui/add-repository/create-repository.tsx
+Stats reported.	lib/stats/stats-store.ts
+StatsDatabase	ui/index.tsx
+status status-	ui/changes/changed-file.tsx,ui/history/committed-file-item.tsx
+StringError	lib/source-map-support.ts
+Sublime HQ Pty Ltd	lib/editors/win32.ts
+Sublime Text	lib/editors/win32.ts
+Sublime Text 3_is1	lib/editors/win32.ts
+Sublime Text_is1	lib/editors/win32.ts
+Submodules updated	lib/git/submodule.ts
+Subproject commit ([^-]+)(-dirty)?$	lib/git/diff.ts
+Success	lib/stores/sign-in-store.ts
+Successful	lib/ci-checks/ci-checks.ts
+support@github.com	ui/terms-and-conditions/terms-and-conditions.tsx
+Switch Branch	ui/stash-changes/stash-and-switch-branch-dialog.tsx
+Switch to Pull Request	ui/notifications/pull-request-checks-failed.tsx,ui/notifications/pull-request-review.tsx
+Switch to Repository and Pull Request	ui/notifications/pull-request-checks-failed.tsx,ui/notifications/pull-request-review.tsx
+System notifications are unavailable	lib/notifications/show-notification.ts
+System32	lib/is-git-on-path.ts,lib/shells/win32.ts
+Tabby	lib/shells/darwin.ts
+tag:	lib/git/log.ts
+targetSize)	lib/copilot-conflict-resolution.ts
+Terminal	lib/shells/darwin.ts
+Terminator	lib/shells/linux.ts
+Terminology	lib/shells/linux.ts
+Test Copilot Snapshot Card	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Test description	ui/lib/test-ui-components/test-ui-components.ts
+Test Error - to use default error handler	ui/lib/test-ui-components/test-ui-components.ts
+Test Notifications	ui/test-notifications/test-notifications.tsx
+Test summary	ui/lib/test-ui-components/test-ui-components.ts
+Test User	ui/lib/test-ui-components/test-ui-components.ts
+test-github.com	ui/lib/test-ui-components/test-ui-components.ts
+textarea:not(:disabled):not([tabindex="-1"])	ui/dialog/dialog.tsx
+Thanks @	lib/release-notes.ts
+The application is missing a dependency it needs to check and install updates. This is very, very bad.	lib/squirrel-error-parser.ts
+The authenticity of host	lib/trampoline/trampoline-askpass-handler.ts
+The branch could not be renamed.	lib/git/core.ts
+The command cannot be generated if parsing is not finished	lib/trampoline/trampoline-command-parser.ts
+The command could not be completed.	lib/copilot-app/index.ts
+The current branch is unborn.	lib/stores/app-store.ts
+The current remote name differs from the branch remote	lib/stores/app-store.ts
+The current repository is in a detached HEAD state.	lib/stores/app-store.ts
+The DropdownSuggestedActions component was provided an empty array. It requires an array of at least one item.	ui/suggested-actions/dropdown-suggested-action.tsx
+The force push has been rejected for the current branch.	lib/git/core.ts
+The host is down. Check your Internet connection and try again.	lib/git/core.ts
+The merge you attempted is not a fast-forward, so it cannot be performed on an empty branch.	lib/git/core.ts
+The object was not found in the Git repository.	lib/git/core.ts
+The path does not exist on disk.	lib/git/core.ts
+The provided path does not point to a macOS application.	lib/custom-integration.ts
+The push was rejected by the remote server because a required status check has not been satisfied.	lib/git/core.ts
+The remote branch does not exist.	lib/git/core.ts
+The remote disconnected. Check your Internet connection and try again.	lib/git/core.ts
+The repository has been updated since you last pulled. Try pulling before pushing.	lib/git/core.ts
+The repository has no remotes.	lib/stores/app-store.ts
+The repository path must be absolute.	lib/copilot-app/index.ts
+The requested changes conflict with one or more files in the repository.	lib/git/core.ts
+The SSH key is unverified.	lib/git/core.ts
+The user name or passphrase you entered is not correct	lib/stores/accounts-store.ts
+Theirs (incoming branch):	lib/copilot-conflict-context.ts
+theme-	ui/app-theme.tsx
+There are no changes to commit.	lib/git/core.ts
+There are unresolved conflicts in the working directory.	lib/git/core.ts
+There aren’t any changes left to apply.	lib/git/core.ts
+There aren’t any remote branches that match the current branch.	lib/git/core.ts
+There is no merge in progress, so there is nothing to abort.	lib/git/core.ts
+These pull requests were referenced in the commit history and may explain the intent behind either side:	lib/copilot-conflict-context.ts
+This branch cannot be deleted from the remote repository because it is marked as protected.	lib/git/core.ts
+This branch is protected from force-push operations.	lib/git/core.ts
+This is not a git repository.	lib/git/core.ts
+This is not something we can merge.	lib/git/core.ts
+This is not something we can rebase.	lib/git/core.ts
+This path is not a valid path inside the repository.	lib/git/core.ts
+this.createCommit(	ui/changes/commit-message.tsx
+this.db.repositories.update(repo.id,	lib/stores/repositories-store.ts
+this.popupLimit)	lib/popup-manager.ts
+this.setState(	ui/branches/branches-container.tsx,ui/drag-elements/commit-drag-element.tsx
+this.skipCheckRuns.has(id)))	lib/stores/notifications-store.ts
+this.state.availableWidth)	ui/lib/path-text.tsx
+this.state.commitMessage.timestamp)	ui/changes/commit-message.tsx
+Thrown away :(....	ui/lib/test-ui-components/test-ui-components.ts
+TiB	ui/lib/bytes.ts
+Tilix	lib/shells/linux.ts
+Time Format	ui/preferences/appearance.tsx
+timed out	lib/highlighter/worker.ts
+Timed out	lib/ci-checks/ci-checks.ts
+timed_out	lib/api.ts,lib/ci-checks/ci-checks.ts
+Tip is not in a valid state, which is required to start the multi commit operation	lib/multi-commit-operation.ts
+To finish reverting, please merge and commit the changes.	lib/git/core.ts
+To update an upstream remote, the repository must be a GitHub repository	lib/stores/git-store.ts
+To update an upstream remote, the repository must have a parent	lib/stores/git-store.ts
+Token-based billing	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+TooManyPopups	lib/popup-manager.ts,lib/helpers/non-fatal-exception.ts
+trailer.separators	lib/git/interpret-trailers.ts
+Trampoline client error	lib/trampoline/trampoline-server.ts
+transfer.credentialsInUrl=allow	lib/git/remote.ts
+Tried to use invalid trampoline token	lib/trampoline/trampoline-server.ts
+Trust Repository	ui/missing-repository.tsx
+tutorial-panel-component panel	ui/tutorial/tutorial-panel.tsx
+tutorial:add	lib/stores/helpers/create-tutorial-repository.ts
+tutorial:add-remote	lib/stores/helpers/create-tutorial-repository.ts
+tutorial:commit	lib/stores/helpers/create-tutorial-repository.ts
+tutorial:init	lib/stores/helpers/create-tutorial-repository.ts
+tutorial:push	lib/stores/helpers/create-tutorial-repository.ts
+TwoFactorAuthentication	lib/stores/sign-in-store.ts
+Typora	lib/editors/win32.ts
+typora.io	lib/editors/win32.ts
+Unable to determine the repository directory for the ownership exception.	lib/git/rev-parse.ts
+Unable to initialize cherry-pick progress. No commits provided.	lib/stores/app-store.ts
+Unable to Locate Git	ui/install-git/install.tsx
+Unable to merge unrelated histories in this repository.	lib/git/core.ts
+Unable to Open External Editor	ui/editor/editor-error.tsx
+Unable to Open Shell	ui/shell/shell-error.tsx
+Unable to rebase these branches because one or both of the refs do not exist in the repository	lib/git/rebase.ts
+UnableToStart	lib/git/cherry-pick.ts
+unaccounted for git status entry possibility	lib/git/stage.ts
+Unaccounted for step type	lib/stores/app-store.ts
+Unauthorized: error with authentication.	lib/api.ts
+unauthorized: not authorized to use this Copilot feature	lib/api.ts
+Unauthorized: not authorized to use this Copilot feature.	lib/api.ts
+unauthorized: not licensed to use Copilot	lib/api.ts
+Unauthorized: not licensed to use Copilot.	lib/api.ts
+Unauthorized: unknown.	lib/api.ts
+Undo Commit	ui/undo/warn-local-changes-before-undo.tsx
+Undo commit…	ui/history/commit-list.tsx
+Undo Commit…	ui/history/commit-list.tsx
+Unexpected error from git operations in getConflictDetails	lib/git/status.ts
+UninstallString	lib/editors/win32.ts
+Unknown Co-Authors	ui/unknown-authors/unknown-authors-dialog.tsx
+Unknown error	lib/copilot-conflict-resolution-error.ts
+Unknown status entry to format	lib/status.ts
+Unlimited	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Unsupported conflict kind	lib/stores/app-store.ts
+Unsupported git configuration value.	lib/git/core.ts
+Unsupported protocol. Only https is supported when authenticating with GitHub Enterprise instances.	lib/stores/sign-in-store.ts
+Untrusted Server	ui/untrusted-certificate/untrusted-certificate.tsx
+Update Email	ui/changes/commit-message-avatar.tsx
+Update Existing Filters	ui/lfs/attribute-mismatch.tsx
+Update Existing Git LFS Filters?	ui/lfs/attribute-mismatch.tsx
+Updating submodules	lib/git/submodule.ts
+Uploading	lib/progress/lfs.ts
+Upstream Already Exists	ui/upstream-already-exists/upstream-already-exists.tsx
+URL	ui/clone-repository/clone-repository.tsx,ui/cli-action/test-cli-action-dialog.tsx
+URxvt	lib/shells/linux.ts
+Usage allowed with exhausted quota	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+Used requests	ui/preferences/test-copilot-snapshot-card-dialog.tsx
+used_in_tests	ui/secret-scanning/bypass-push-protection-dialog.tsx
+User	lib/api.ts,lib/stores/github-user-store.ts
+User-Agent	lib/http.ts
+user.email	ui/changes/commit-message-avatar.tsx,ui/repository-settings/repository-settings.tsx
+user.name	ui/changes/commit-message-avatar.tsx,ui/repository-settings/repository-settings.tsx
+users.noreply.github.com	lib/email.ts
+Visual Studio Code	lib/editors/shared.ts,lib/editors/win32.ts
+Visual Studio Code (Insiders)	lib/editors/win32.ts
+visualstudio.com	lib/api.ts
+void)	ui/main-process-proxy.ts,lib/stores/app-store.ts
+void): Disposable	ui/lib/update-store.ts,lib/drag-and-drop-manager.ts
+void): Promise	lib/stores/app-store.ts
+VSCodium	lib/editors/win32.ts
+VSCodium (Insiders)	lib/editors/win32.ts
+VSCodium Insiders	lib/editors/win32.ts
+warn-force-push-confirmation-title warn-force-push-confirmation-message	ui/multi-commit-operation/dialog/warn-force-push-dialog.tsx
+Warp	lib/shells/darwin.ts,lib/shells/win32.ts
+We found some conflicts while trying to merge. Please resolve the conflicts and commit the changes.	lib/git/core.ts
+We found some conflicts while trying to rebase. Please resolve the conflicts before continuing.	lib/git/core.ts
+WEBGL_compressed_texture_s3tc	ui/diff/image-diffs/dds-converter.ts
+WebStorm	lib/editors/win32.ts
+Weekly limits	ui/preferences/snapshot-card.tsx,ui/preferences/test-copilot-snapshot-card-dialog.tsx
+WezTerm	lib/shells/darwin.ts
+will_fix_later	ui/secret-scanning/bypass-push-protection-dialog.tsx
+window.innerHeight - titleBarHeight)	ui/dialog/dialog.tsx
+Windows	lib/http.ts
+Windows PowerShell	lib/hooks/config.ts
+Windows Terminal	lib/shells/win32.ts
+Windsurf	lib/editors/win32.ts
+Windsurf (User)	lib/editors/win32.ts
+WorkingDirectory	lib/app-state.ts
+Worktree name	ui/worktrees/add-worktree-dialog.tsx
+Worktree Name	ui/worktrees/add-worktree-dialog.tsx
+Writing objects	lib/progress/push.ts
+WSL	lib/shells/win32.ts
+wwwauth[	lib/trampoline/trampoline-credential-helper.ts
+X-GitHub-OTP	lib/api.ts
+X-GitHub-Request-Id	lib/http.ts,lib/api.ts
+X-Initiator	lib/api.ts
+X-Interaction-ID	lib/api.ts
+X-Interaction-Type	lib/api.ts
+x.endpoint === existingAccount.endpoint))	lib/stores/sign-in-store.ts
+XFCE Terminal	lib/shells/linux.ts
+XTerm	lib/shells/linux.ts
+Yes, Commit Files	ui/merge-conflicts/commit-conflicts-warning.tsx
+YiB	ui/lib/bytes.ts
+You already have a repository named	lib/stores/helpers/create-tutorial-repository.ts
+You can now do this new thing that was added here - #456. Thanks!	ui/lib/test-ui-components/test-ui-components.ts
+You have reached your GitHub Copilot session limit.	lib/copilot-error.ts
+You have reached your GitHub Copilot usage limit.	lib/copilot-error.ts
+Your Repositories	ui/clone-repository/cloneable-repository-filter-list.tsx
+your-email@example.com	ui/lib/configure-git-user.tsx
+Zed	lib/editors/win32.ts
+Zed Industries	lib/editors/win32.ts
+ZiB	ui/lib/bytes.ts

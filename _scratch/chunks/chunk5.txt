@@ -1,0 +1,185 @@
+﻿Override
+Overriding commit message with generated message
+Overwrite
+Overwrite any changes on
+Overwrite stash?
+p.id === provider.id))
+Packages
+PageDown
+PageUp
+panel binary
+panel blankslate
+panel empty
+panel empty large-diff
+panel image
+panel renamed
+parseInt(h, 10)) as Array
+Partially checked check list
+partially included
+Password
+Path to executable
+path to GitHub Copilot.app
+Path:
+People with discussion bubbles overhead
+Permanently discard changes
+PiB
+Place extra information in the description field.
+Please add at least one model.
+Please enter a base URL.
+Please enter a bearer token.
+Please enter a model identifier.
+Please enter a name.
+Please enter an API key.
+Please wait
+Prefer absolute dates over relative
+Preferences
+PreferencesTab.Copilot)
+Premium requests
+Press
+Preview Pull Request
+Previous tags
+Privacy
+Promise
+Prompts
+ProTip!
+ProTip! Press
+Provider
+public constructor(allBranches: ReadonlyArray
+public constructor(emoji: Map
+Publish
+Publish branch
+Publish branch?
+Publish repository
+Publish this branch to GitHub
+Publish this branch to the remote
+Publish this repository to GitHub
+Publish to GitHub
+Publish your branch
+Publish your repository to GitHub
+Publish your repository to GitHub. Need help?
+Pull request file list
+Pull request markdown body
+Pull request markdown comment
+Pull requests
+Pull requests in
+Pull requests targeting
+PullRequestDatabase
+Push blocked: secret detected
+Push commits
+Push pull button
+Push rejected
+Push the secret(s) to this repository without being blocked
+Push, pull, fetch options
+push-branch-commits-title push-branch-commits-message
+quickViewHeight)
+Quit and Install Update
+Quit anyway
+Reachable
+Reading recent commit history
+readonly accounts: ReadonlyArray
+readonly byokProviders: ReadonlyArray
+readonly cachedRepoRulesets: ReadonlyMap
+readonly commitLookup: Map
+readonly copilotResolutions: ReadonlyArray
+readonly emoji: Map
+readonly items: ReadonlyArray
+readonly localCommitSHAs: ReadonlyArray
+readonly newContents: ReadonlyArray
+readonly newLineFilter: Array
+readonly newReleases: ReadonlyArray
+readonly nonRerunnable: ReadonlyArray
+readonly onFileSelectionChanged: (rows: ReadonlyArray
+readonly pullRequests: ReadonlyArray
+readonly recentRepositories: ReadonlyArray
+readonly selectedCommits: ReadonlyArray
+readonly selectedItems: ReadonlyArray
+readonly shasInDiff: ReadonlyArray
+readonly userContributions: ReadonlyArray
+Reasoning
+Reasoning effort
+Re-authorization required
+Rebase
+Rebase in progress
+Rebasing
+Rebasing branch
+Recent
+Recent branches
+Recycle Bin
+release notes
+Release notes generated from markdown
+Remember passphrase
+Remember password
+Remote
+Remote URL
+remote:
+Remove
+Remove alias
+Remove co-authors
+Remove custom provider
+Remove repository
+Removed
+Removing repositories
+removing the secret from your commit and commit history.
+Removing worktrees
+Rename branch
+Rename worktree
+Reorder commit
+Reorder commits
+Reorder of
+Reordering
+reordering commits on
+repository name
+repository path
+repository settings
+Repository sidebar
+Repository URL or GitHub username and repository
+repository-list-item-tooltip list-item-tooltip
+request an exemption
+Request timeout (seconds)
+Request timeout must be a positive number of seconds.
+requested changes on
+Re-run
+Re-run all checks
+Re-run Checks
+Re-run failed checks
+Reset to commit
+Resize handle
+resize-handle left
+resize-handle top
+ResizeObserver loop completed with undelivered notifications.
+Resolution summary
+Resolve
+Resolve all changes before continuing
+Resolve all conflicts before continuing
+Resolve conflicts and commit to merge into
+Resolve conflicts to continue
+Resolve conflicts to continue cherry-picking onto
+Resolve conflicts to continue rebasing
+Resolve with Copilot
+Responses (GPT-5 series)
+Responsible use of Copilot in GitHub Desktop
+restart GitHub Desktop
+Restore
+restore stashed changes
+Restricted access to move the file(s).
+Retry clone
+RetryLimit)
+return (
+Return to in progress tutorial
+Reveal in Finder
+Revert changes in commit
+Revert progress button
+Review and edit the generated message carefully before use.
+Review requested
+Reviewing the changes from each side
+Right click on multiple commits to see options.
+rowHeight=
+Rules
+s behalf,
+s choice)
+s default branch.
+s hosting service, you might need to
+s logos include, for instance, the stylized designs that
+s prior, written
+s Privacy Statement,
+s source code

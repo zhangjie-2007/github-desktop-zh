@@ -1,0 +1,67 @@
+Add an Existing Repository from your local drive…	ui/no-repositories/no-repositories-view.tsx
+Add an Existing Repository from your Local Drive…	ui/no-repositories/no-repositories-view.tsx
+Add existing repository…	ui/repositories-list/repositories-list.tsx
+Add Existing Repository…	ui/repositories-list/repositories-list.tsx
+Add model…	ui/copilot/edit-byok-provider-dialog.tsx
+Add Model…	ui/copilot/edit-byok-provider-dialog.tsx
+Add provider…	ui/preferences/copilot-custom-providers-dialog.tsx
+Add Provider…	ui/preferences/copilot-custom-providers-dialog.tsx
+Amend commit…	ui/history/commit-list.tsx
+Amend Commit…	ui/history/commit-list.tsx
+Analyzing conflicts…	ui/multi-commit-operation/dialog/copilot-conflicts-loading-dialog.tsx
+Checking Copilot access…	ui/preferences/copilot.tsx
+Checking for ability to rebase automatically…	ui/multi-commit-operation/choose-branch/rebase-choose-branch-dialog.tsx
+Checking for updates…	ui/about/about.tsx
+Checkout in new worktree…	ui/branches/branch-list-item-context-menu.tsx,ui/branches/pull-request-list-item-context-menu.tsx
+Checkout in New Worktree…	ui/branches/branch-list-item-context-menu.tsx,ui/branches/pull-request-list-item-context-menu.tsx
+Cherry-pick commit…	ui/history/commit-list.tsx
+Cherry-pick Commit…	ui/history/commit-list.tsx
+Choose…	ui/preferences/custom-integration-form.tsx,ui/preferences/integrations.tsx
+Clone a repository from the Internet…	ui/no-repositories/no-repositories-view.tsx
+Clone a Repository from the Internet…	ui/no-repositories/no-repositories-view.tsx
+Clone Repository…	ui/repositories-list/repositories-list.tsx
+Configure custom editor…	ui/preferences/integrations.tsx,ui/open-with-external-editor/open-with-external-editor.tsx
+Configure Custom Editor…	ui/preferences/integrations.tsx,ui/open-with-external-editor/open-with-external-editor.tsx
+Configure custom providers…	ui/lib/copilot-model-picker.tsx
+Configure custom shell…	ui/preferences/integrations.tsx
+Configure Custom Shell…	ui/preferences/integrations.tsx
+Configure…	ui/preferences/snapshot-card.tsx
+Create a New Repository on your local drive…	ui/no-repositories/no-repositories-view.tsx
+Create a New Repository on your Local Drive…	ui/no-repositories/no-repositories-view.tsx
+Create a tutorial repository…	ui/no-repositories/no-repositories-view.tsx
+Create a Tutorial Repository…	ui/no-repositories/no-repositories-view.tsx
+Create branch based on…	ui/create-branch/create-branch-dialog.tsx
+Create new repository…	ui/repositories-list/repositories-list.tsx
+Create New Repository…	ui/repositories-list/repositories-list.tsx
+Create Tag…	ui/history/commit-list.tsx
+Delete tag…	ui/history/commit-list.tsx
+Discard All Changes…	ui/changes/filter-changes-list.tsx
+Downloading update…	ui/about/about.tsx
+File → Options → Copilot	ui/multi-commit-operation/dialog/copilot-conflict-resolution-always-nudge.tsx
+Gathering context…	ui/multi-commit-operation/dialog/copilot-conflicts-loading-dialog.tsx
+Generating commit details…	ui/changes/commit-message.tsx
+Hang on…	ui/toolbar/push-pull-button.tsx,ui/toolbar/revert-progress.tsx
+I'll be using this fork…	ui/repository-settings/fork-settings.tsx
+Installing update…	ui/installing-update/installing-update.tsx
+Installing Update…	ui/installing-update/installing-update.tsx
+Loading available models…	ui/preferences/copilot-user-settings.tsx
+Loading Copilot usage…	ui/preferences/snapshot-card.tsx
+Locate…	ui/missing-repository.tsx
+New Worktree…	ui/repositories-list/repository-list-item-context-menu.ts,ui/toolbar/worktree-dropdown.tsx
+Open With…	ui/open-with-external-editor/open-with-external-editor.tsx
+Optimizing repository…	ui/changes/commit-message.tsx
+Remove…	ui/repositories-list/repository-list-item-context-menu.ts
+Reset to commit…	ui/history/commit-list.tsx
+Reset to Commit…	ui/history/commit-list.tsx
+Reverting…	ui/toolbar/revert-progress.tsx
+s applications, such as GitHub Desktop™ and	ui/terms-and-conditions/terms-and-conditions.tsx
+Search…	ui/diff/diff-search-input.tsx
+Select branch to compare…	ui/history/compare.tsx
+Select Branch to Compare…	ui/history/compare.tsx
+Settings → Copilot	ui/multi-commit-operation/dialog/copilot-conflict-resolution-always-nudge.tsx
+Stash all changes…	ui/changes/filter-changes-list.tsx
+Stash All Changes…	ui/changes/filter-changes-list.tsx
+There aren’t any changes left to apply.	lib/git/core.ts
+There aren’t any remote branches that match the current branch.	lib/git/core.ts
+Undo commit…	ui/history/commit-list.tsx
+Undo Commit…	ui/history/commit-list.tsx

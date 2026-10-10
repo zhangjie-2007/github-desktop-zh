@@ -1,0 +1,185 @@
+﻿This may indicate attackers are trying to steal your data.
+This path does not appear to be a valid executable.
+This repository is a fork. How do you plan to use it?
+This repository uses
+This submodule
+This submodule changed its commit from
+This submodule has
+This version of GitHub Desktop is missing
+This will create a stash with your current changes. You can recover them by restoring the stash afterwards.
+This will fast-forward
+This will merge
+This will move GitHub Desktop to the Applications folder in your machine and restart the app.
+This will not affect the original repository name on GitHub.
+This will update
+this.createCommit(
+this.setState(
+this.state.availableWidth)
+this.state.commitMessage.timestamp)
+Throw It Away
+TiB
+Time format
+Tip is in unknown state. Cherry-pick aborted.
+Tip is not in a valid state, which is required to initialize the merge operation
+Tip is not in a valid state, which is required to start the cherry-pick flow
+Tip is not in a valid state, which is required to start the cherry-pick flow.
+Tip is not in a valid state, which is required to start the merge operation
+Tip is not in a valid state, which is required to start the rebase flow
+Tip: You can use
+to confirm.
+To contribute to the parent project
+To contribute to the parent repository
+to GitHub
+Toggle password visibility
+Trash
+Trust repository
+tutorial-panel-component panel
+Type
+Unable to
+Unable to display diff when multiple non-consecutive selected.
+Unable to load the diff for this file.
+Unable to locate Git
+Unable to merge unrelated histories in this repository
+Unable to open external editor
+Unable to open shell
+Unable to read path on disk. Please check the path and try again.
+Unable to set cursor position when element is null
+Unable to start rebase. Check you have chosen a valid branch.
+Unavailable
+Uncaught exception
+Underline links
+Undo
+Undo commit
+Undo is disabled while the repository is being updated
+Unexpected null line
+Unified
+Unknown
+Unknown address
+Unknown anchor position
+Unknown co-authors
+Unknown file change type
+Unknown license
+Unknown repository section
+Unknown user
+Unreachable
+Unsupported format
+Unsupported key
+Untitled model
+Untracked files will be excluded
+Untrusted server
+Update
+Update email
+Update existing filters
+Update existing Git LFS filters?
+Upstream already exists
+URL or username/repository
+Usage
+usage stats
+Use
+Use a local Git config
+Use Copilot to suggest resolutions for conflicted files
+Use Copilot's suggestion
+Use current file
+Use Git Credential Manager
+Use incoming file
+Use my global Git config
+Use system OpenSSH (recommended)
+used_in_tests
+user not found
+user unknown
+user.email
+user.name
+Username
+Using Copilot's merged resolution
+ve created a repository recently.
+ve detected that you
+ve signed in.
+Verify the identity of the secret(s)
+Version
+View
+View all release notes
+View all rulesets for this branch.
+View Branch on GitHub
+View Certificate
+View check details
+View commit author information
+View conflicts
+View Copilot plans
+View on GitHub
+View on GitHub Enterprise
+View Pull Request on GitHub
+View stash
+View your stashed changes
+void)
+void): Disposable
+warn-force-push-confirmation-title warn-force-push-confirmation-message
+Warning
+Warning:
+We recommend you avoid committing these files or use
+We were unable to authenticate with
+We will help you contribute to the
+WEBGL_compressed_texture_s3tc
+Welcome to
+Welcome to GitHub Desktop
+what's new
+Whitespace
+Will be
+Will be created as
+Will check out existing branch
+Will check out remote branch
+will_fix_later
+window.innerHeight - titleBarHeight)
+with the account
+Work on an existing project in GitHub Desktop
+Worktree
+worktree name
+worktree path
+Worktree will be created at
+Would you like to
+Would you like to forcefully delete the worktree
+Would you like to publish
+Would you like to push your changes to
+Would you like to retry cloning
+Would you like to update the remote to use the expected URL?
+Yes
+Yes, commit files
+Yes, delete this branch on the remote
+YiB
+You are not able to cherry-pick from and to the same branch
+You are not able to rebase this branch onto itself.
+You can
+You can also set an email local to this repository from the
+You can only open pull requests against remote branches.
+You can open this submodule on GitHub Desktop as a normal repository to manage and commit any changes in it.
+You can stash your changes now and recover them afterwards.
+You can update your
+You can:
+You contributed:
+You don't have write access to
+You have
+You have a filter applied. There are
+You have changes on this branch. What would you like to do with them?
+You have the latest version (last checked
+You will
+Your Account Emails
+Your branch is up to date with the compared branch (
+Your branch must be published before opening a pull request.
+Your changes will modify your
+Your commits will be wrongly attributed.
+Your default branch source is determined by your
+Your default editor is
+your File Manager
+your global git config
+Your in-progress work will be stashed on this branch for you to return to later
+Your in-progress work will follow you to the new branch
+Your Name
+Your new branch will be based on
+Your new branch will be based on the commit '
+Your new branch will be based on your currently checked out branch (
+Your repositories
+your username and password
+You're all set!
+You're already signed in to
+You're done!
+your-email@example.com
+ZiB

@@ -1,0 +1,185 @@
+﻿Clone Again
+Clone As:
+Clone failed
+CloneRepository: Path validation failed. Error:
+clone-repository-list-content clone-repository-list-group-header
+Cloning
+Close
+Co-Authored-By
+Co-Authors&nbsp;
+Collapse
+Collapse commit details
+Collapse description
+Collapse expanded lines
+Command line arguments
+Command line tool installed
+command prompt
+commented on
+Commit
+Commit anyway
+Commit description
+Commit filtered changes?
+Commit Length
+Commit may be misattributed. View warning.
+Commit message generation
+Commit message override
+Commit message rule failures
+Commit reachability
+Commit summary
+commit-list-item-tooltip list-item-tooltip
+commit-message-failure-hint button-component
+Commits
+Committed
+Committing
+Committing as
+Committing changes hidden by filter
+Committing with
+Common reasons are:
+Configure commit options
+Configure Copilot in app settings
+Configure Git
+Configure manually
+ConfigureGit
+Confirm committing conflicted files
+Confirm discard all changes
+Confirm discard changes
+Conflict resolution
+Conflict state missing during finishConflictedMerge. No merge will be committed.
+ConflictsDialog: onAbort failed
+ConflictsDialog: onSubmit failed
+Connecting to GitHub
+Considering both sides of each conflict
+content-pane repository-list
+Context
+Continue
+Continue in browser
+Continue rebase
+Continue with browser
+Contribute to a project that interests you
+Copied!
+Copilot
+Copilot conflict resolution summary
+Copilot features in GitHub Desktop require a GitHub Copilot license.
+Copilot Instructions
+Copilot is powered by AI, so mistakes are possible.
+Copilot settings
+copilot-byok-fieldset copilot-byok-models
+copilot-changes-diff-subheader expanded
+copilot-conflicts-file-heading copilot-conflicts-skipped-heading
+copilot-file-explanation resolved-text
+copilot-model-list-group filter-list-group-header
+copilot-section copilot-account-snapshot-groups
+Copy
+Copy branch name
+Copy file path
+Copy paths
+Copy relative file path
+Copy relative paths
+Copy repo name
+Copy repo path
+Copy SHA
+Copy tag
+Copy tags
+Copy the full SHA
+Copy to
+Copy worktree name
+Copy worktree path
+Could not determine the default branch.
+Could not find a default branch to compare against.
+Could not list worktrees
+Could not load new contents for syntax highlighting
+Could not load old contents for syntax highlighting
+Create
+Create a branch
+create a fork
+Create a merge commit
+create a new branch
+Create a new repository
+create a pull request
+create a repository
+Create a tag
+create branch
+Create branch and cherry-pick
+Create branch from commit
+create commit
+Create new branch
+Create repository
+create tag
+Create without pushing
+Create worktree
+Create your free account.
+creating the fork manually on GitHub
+Creative Commons Attribution license
+Cross-referencing related files
+Current
+Current branch
+Current branch dropdown button
+Current repository
+Current worktree
+Current worktree dropdown button
+Current:
+Currently on a detached HEAD
+custom instructions
+Custom providers
+Dark
+Date format
+Date:
+Decrease
+Default
+Default (provider's choice)
+default branch
+Default branch name for new repositories
+Delete
+Delete branch
+Delete file
+Delete remote branch
+Delete tag
+delete the lock file
+Delete worktree
+Delete worktree failed
+delete-branch-confirmation-message delete-branch-confirmation-message-remote
+Deleted
+Deleted files
+Deleting the worktree
+Description
+Detached HEAD
+Determining which checks can be re-run.
+Dialog_about
+Dialog_Copilot_Conflicts
+Dialog_Open_Pull_Request
+dialog-banner dialog-error
+dialog-banner dialog-success
+Diff display
+Diff tab size
+Diff:
+Difference
+Disable commit spellcheck
+Discard
+Discard all changes
+discard changes
+Discard stash?
+discard-changes-confirmation-file-list discard-changes-confirmation-message
+Discarded changes will be unrecoverable
+Discarding changes
+Discarding changes permanently
+Discarding stash
+Disclaimers and Limitations of Liability
+Dismiss
+Dismiss this message
+Display name
+div[role=row]
+div[role=row]:first-child
+div[role=row]:last-child
+do not
+Do not show this message again
+Do you want to continue anyway?
+Do you want to create a new branch instead?
+Do you want to fork this repository?
+Do you want to switch to that Pull Request now and start fixing
+documentation that is included with the Software.
+does not
+does not match
+DOMContentLoaded
+Down
+downloading GitHub Copilot
+Draft

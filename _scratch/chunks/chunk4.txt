@@ -1,0 +1,185 @@
+﻿Input
+Input cleared
+input:not([type=hidden]):not(:disabled):not([tabindex="-1"])
+input[type=button], input[type=submit] input[type=reset], button
+input[type=submit], button[type=submit]
+Insert here
+Install
+Install a text editor
+Install and restart
+Install Git
+integration docs
+Integrations
+interface IAugmentedSectionFilterListProps
+interface ISectionFilterListRowHeightInfo
+interface ITutorialDoneProps
+Invalid characters have been replaced by hyphens.
+Invalid protocol
+Invalid URL
+Invalidated account token
+is a fork of
+is a protected branch. Want to
+is already up to date
+is already up to date with
+is not a valid name.
+is the
+is the version control system.
+is up to date with all commits from
+Issues will be created in
+IssuesDatabase
+It was last seen at
+item.id === si.id))
+It's a false positive
+Its API key will also be removed from your keychain.
+Its bearer token will also be removed from your keychain.
+its tracked branch.
+It's used in tests
+just now
+Keep file
+Keep this code private
+KiB
+Know which resources the secret(s) can access
+Last fetched
+Last Modified:
+Learn about submodules.
+Learn more
+Learn more about bidirectional Unicode characters
+Learn more about commit attribution
+Learn more about commit signing.
+Learn more about Copilot in GitHub Desktop.
+Learn more about generating commit messages.
+Learn more about GitHub Copilot
+Learn more about gitignore files
+Learn more about remote repositories.
+Learn more about unreachable commits.
+Learn more about user metrics.
+Learn more.
+length)
+Let's get started!
+License
+License and Open Source Notices
+Light
+Line
+Lines changed:
+link-button-component example-link
+listHeight)
+list-insertion-point bottom
+list-insertion-point top
+ListRow
+Load Git hook environment variables from shell
+Loading pull requests as fast as I can!
+Loading system theme
+Local
+local commit
+local only
+Local path
+Looking for related context
+Looking for the latest features?
+Looks like there are no repositories for
+m.id === key.modelId))
+Make a commit
+Manual conflict
+MaxAuthorsToList)
+MaxFilesToList)
+MaxRepositoriesToList)
+MaxTagNameLength)
+Merge
+merge into
+Merge options
+Merging
+MiB
+Minimize
+MINUTE)
+Miscellanea
+Miscellaneous
+Model identifier
+Models
+Modified
+Modified files
+most recent commit
+Move and Restart
+Move GitHub Desktop to the Applications folder?
+My provider
+Name
+Name is invalid, it consists only of disallowed characters.
+Network and credentials
+Never fetched
+New branch
+New branches will be based on
+New files
+New to GitHub?
+New worktree
+Newer commits on remote
+nextTruncatedIx)
+No account found for endpoint
+No avatar url returned from API
+No branches to compare
+No commit selected
+No commits to list
+No conflicts remaining
+No content changes found
+No Copilot models available.
+No Copilot resolution available
+No Copilot resolution available for this file.
+No Copilot usage data available yet.
+No credentials will be sent with requests to this provider.
+No editors found.
+No file selected
+No files in commit
+No files match your current filters
+No history
+No local changes
+No models available
+No models found.
+No models yet. Add at least one to use this provider.
+No newline at end of file
+No open pull requests in
+No other editors found.
+No repositories
+No repository selected
+No results
+No size difference
+No usage limit
+No worktrees found
+no-items empty-repository-list
+no-items loading
+no-items no-results-found
+None
+non-re-run-info warning-helper-text
+no-padding terms-and-license
+not included
+Not now
+Notifications
+Number format
+one or more rules
+Onion Skin
+Only continue if you recognize and trust this server.
+Only whitespace changes found
+Open
+Open a pull request
+open a pull request,
+Open Copilot feature settings
+Open editor
+Open file in external program.
+Open git settings
+Open in browser
+Open in command line,
+Open in external editor
+Open in shell
+Open options
+Open Preferences
+Open pull request
+Open Repository
+Open Source Licenses and Notices
+Open Summary Length Info
+Open the Atom website
+Open this repository in your preferred text editor. Edit the
+Open this submodule on GitHub Desktop
+Open with default program
+Open without Git
+Open Your Card
+OpenAI / OpenAI-compatible
+OpenAI-compatible
+organization has enabled or enforced SAML SSO.*?you must re-authorize/s
+Other branches
+Output
